@@ -1,0 +1,9 @@
+pandas==2.3.3
+numpy==2.4.1
+matplotlib==3.10.8
+seaborn==0.13.2
+scipy==1.17.0
+nbformat==5.10.4
+openpyxl==3.1.5
+ipykernel==7.1.0
+faker==37.4.0

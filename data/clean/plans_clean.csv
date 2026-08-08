@@ -1,0 +1,4 @@
+plan_id,plan_name,monthly_price,tier,billing_cycle
+1,Starter,49,1,monthly
+2,Pro,199,2,monthly
+3,Enterprise,799,3,annual

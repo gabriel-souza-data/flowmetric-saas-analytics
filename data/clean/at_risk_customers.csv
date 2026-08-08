@@ -1,0 +1,21 @@
+customer_id,company_name,country,industry,mrr_amount,days_active,events_last_30d,days_since_last_event
+61,"Brown, Valdez and Lucas",United States,PR Agency,49,324,0,43
+282,Hughes-Alvarado,Germany,Digital Agency,49,859,0,36
+279,Pollard and Sons,United States,Marketing Agency,49,312,1,20
+218,Erickson and Sons,Portugal,Branding Agency,49,131,1,15
+341,Garcia-Jennings,United Kingdom,Branding Agency,49,740,1,4
+6,"Gardner, Robinson and Lawrence",United States,Management Consulting,49,268,2,24
+172,"Alvarado, Miller and Patterson",Portugal,Branding Agency,49,280,2,10
+540,Humphrey PLC,United Kingdom,Digital Agency,49,289,3,6
+988,Ramirez-Stephenson,United States,Digital Agency,49,332,3,4
+45,"Arroyo, Miller and Tucker",Germany,Marketing Agency,49,789,4,7
+888,Mcneil Group,Germany,Digital Agency,49,480,4,5
+934,Williams Inc,United Kingdom,Management Consulting,49,226,4,4
+700,"Ramsey, Hansen and Mendoza",Portugal,PR Agency,49,265,4,2
+399,"Brown, Harris and Dougherty",United States,Digital Agency,49,654,5,11
+277,Cook-Hines,United States,Design Studio,49,414,5,7
+720,"Bernard, Warren and Combs",United Kingdom,Marketing Agency,49,114,5,3
+977,Anderson Group,United States,Digital Agency,49,667,5,3
+299,"Sparks, Jackson and Miller",Portugal,PR Agency,49,170,5,2
+976,Martinez Inc,United Kingdom,Marketing Agency,49,38,6,10
+209,Holt-Torres,Germany,Design Studio,49,403,6,4

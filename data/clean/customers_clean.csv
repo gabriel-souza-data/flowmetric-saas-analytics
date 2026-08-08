@@ -1,0 +1,1001 @@
+customer_id,company_name,country,industry,employee_size_band,signup_date,signup_quarter
+1,"Rodriguez, Figueroa and Sanchez",United Kingdom,Management Consulting,1-10,2024-11-08,2024Q4
+2,Doyle Ltd,Germany,Digital Agency,11-50,2024-02-03,2024Q1
+3,"Mcclain, Miller and Henderson",United States,Design Studio,1-10,2024-10-17,2024Q4
+4,Davis and Sons,United Kingdom,PR Agency,11-50,2025-10-18,2025Q4
+5,"Guzman, Hoffman and Baldwin",United Kingdom,Dev Shop / Software Consulting,1-10,2026-02-01,2026Q1
+6,"Gardner, Robinson and Lawrence",United States,Management Consulting,1-10,2025-10-05,2025Q4
+7,Blake and Sons,Germany,Branding Agency,1-10,2025-07-04,2025Q3
+8,"Henderson, Ramirez and Lewis",United States,Marketing Agency,1-10,2026-04-24,2026Q2
+9,Garcia-James,United States,Marketing Agency,51+,2024-11-18,2024Q4
+10,Abbott-Munoz,United Kingdom,Management Consulting,51+,2026-06-19,2026Q2
+11,Blair PLC,United States,Dev Shop / Software Consulting,11-50,2026-01-10,2026Q1
+12,Dudley Group,Portugal,Branding Agency,51+,2026-06-09,2026Q2
+13,Arnold Ltd,Germany,Management Consulting,1-10,2025-06-07,2025Q2
+14,"Mcclure, Ward and Lee",Germany,Marketing Agency,11-50,2024-10-20,2024Q4
+15,Williams and Sons,United Kingdom,Branding Agency,1-10,2025-05-13,2025Q2
+16,Galloway-Wyatt,Portugal,Design Studio,11-50,2026-02-22,2026Q1
+17,James Group,Germany,Dev Shop / Software Consulting,1-10,2025-11-02,2025Q4
+18,"Flowers, Martin and Kelly",United Kingdom,Digital Agency,1-10,2026-06-23,2026Q2
+19,"Adams, Zuniga and Wong",Germany,PR Agency,1-10,2026-03-15,2026Q1
+20,"Reid, Ferguson and Sanchez",United States,Digital Agency,11-50,2026-04-09,2026Q2
+21,Gray-Mayo,United Kingdom,Management Consulting,11-50,2025-02-08,2025Q1
+22,"Watts, Robinson and Nguyen",United States,Dev Shop / Software Consulting,1-10,2026-02-02,2026Q1
+23,Perez Inc,United States,PR Agency,1-10,2025-11-14,2025Q4
+24,Morales-Jones,United States,Branding Agency,11-50,2026-03-17,2026Q1
+25,"Walter, Edwards and Rios",United Kingdom,PR Agency,51+,2025-12-24,2025Q4
+26,Wilkerson-Day,Portugal,Dev Shop / Software Consulting,11-50,2023-09-21,2023Q3
+27,Baker and Sons,United States,Marketing Agency,1-10,2026-02-24,2026Q1
+28,"Hoffman, Baker and Richards",United States,Design Studio,11-50,2025-01-17,2025Q1
+29,"Ross, Robinson and Bright",Portugal,PR Agency,1-10,2024-11-17,2024Q4
+30,"Snyder, Campos and Callahan",United States,Digital Agency,11-50,2025-04-25,2025Q2
+31,Burton Ltd,Portugal,Branding Agency,11-50,2024-11-01,2024Q4
+32,Carlson-Cruz,United States,Dev Shop / Software Consulting,51+,2025-07-10,2025Q3
+33,"Ferrell, Rice and Maddox",United States,Marketing Agency,11-50,2025-09-03,2025Q3
+34,Frazier Inc,Germany,Digital Agency,51+,2024-12-25,2024Q4
+35,"Dyer, Potter and Mack",Germany,Design Studio,51+,2025-08-09,2025Q3
+36,Rodriguez-Graham,United Kingdom,Digital Agency,51+,2024-07-25,2024Q3
+37,Smith-Bowen,United States,PR Agency,1-10,2024-01-21,2024Q1
+38,"Baker, Mason and White",Portugal,Design Studio,1-10,2024-07-08,2024Q3
+39,Harrell LLC,United States,Digital Agency,11-50,2026-03-08,2026Q1
+40,"Romero, Gonzalez and Brooks",Germany,Marketing Agency,1-10,2026-01-02,2026Q1
+41,Ryan PLC,United States,PR Agency,1-10,2026-01-16,2026Q1
+42,George Group,United States,Digital Agency,51+,2025-06-19,2025Q2
+43,Rodriguez LLC,Germany,Design Studio,11-50,2024-02-04,2024Q1
+44,Allen-Allen,United Kingdom,Branding Agency,1-10,2026-01-28,2026Q1
+45,"Arroyo, Miller and Tucker",Germany,Marketing Agency,51+,2024-05-02,2024Q2
+46,Spence PLC,United States,Design Studio,51+,2023-12-07,2023Q4
+47,Anderson Group,United Kingdom,Management Consulting,1-10,2023-08-15,2023Q3
+48,"Martin, Rose and Obrien",Portugal,Dev Shop / Software Consulting,1-10,2025-04-28,2025Q2
+49,Hickman Ltd,United States,Dev Shop / Software Consulting,51+,2023-12-01,2023Q4
+50,"Harris, Collins and Carney",Portugal,Design Studio,11-50,2024-03-14,2024Q1
+51,"Brooks, Lam and Hayes",United States,Marketing Agency,1-10,2026-04-06,2026Q2
+52,Walker LLC,Portugal,Dev Shop / Software Consulting,1-10,2026-03-26,2026Q1
+53,Chapman and Sons,United Kingdom,Dev Shop / Software Consulting,51+,2025-08-18,2025Q3
+54,"Robinson, Jones and Welch",United Kingdom,Design Studio,1-10,2026-01-02,2026Q1
+55,Jones Inc,United Kingdom,Marketing Agency,11-50,2024-09-02,2024Q3
+56,Jones-Young,United Kingdom,Design Studio,51+,2026-01-02,2026Q1
+57,"Washington, Ryan and Cummings",United States,Digital Agency,1-10,2026-04-03,2026Q2
+58,"Johnston, Sanchez and Kennedy",United States,Digital Agency,1-10,2025-05-08,2025Q2
+59,Lee-Davis,United States,PR Agency,1-10,2023-10-19,2023Q4
+60,Gomez-Jenkins,United States,PR Agency,1-10,2023-09-23,2023Q3
+61,"Brown, Valdez and Lucas",United States,PR Agency,1-10,2025-08-10,2025Q3
+62,Powell LLC,Portugal,Marketing Agency,51+,2025-10-15,2025Q4
+63,Wright and Sons,United Kingdom,Digital Agency,1-10,2026-01-07,2026Q1
+64,"West, Henderson and Ramirez",United States,Marketing Agency,1-10,2025-03-08,2025Q1
+65,Baxter Inc,United States,PR Agency,11-50,2025-08-10,2025Q3
+66,Morton-Chase,Portugal,Marketing Agency,11-50,2024-01-22,2024Q1
+67,Williams PLC,United States,Design Studio,11-50,2025-04-09,2025Q2
+68,Novak and Sons,United States,Management Consulting,11-50,2025-05-10,2025Q2
+69,Russell Group,Germany,PR Agency,1-10,2026-03-28,2026Q1
+70,Hancock Inc,United Kingdom,Dev Shop / Software Consulting,51+,2025-07-02,2025Q3
+71,Gray Group,United Kingdom,Marketing Agency,1-10,2026-04-11,2026Q2
+72,House-Glover,United Kingdom,PR Agency,1-10,2025-10-15,2025Q4
+73,Henderson-Bernard,United Kingdom,Marketing Agency,1-10,2026-04-23,2026Q2
+74,"Stanley, Tucker and Lee",United Kingdom,Digital Agency,11-50,2024-05-18,2024Q2
+75,Novak PLC,United States,Dev Shop / Software Consulting,1-10,2024-09-28,2024Q3
+76,"Daniels, Adkins and Brown",United States,PR Agency,11-50,2025-07-04,2025Q3
+77,"Woods, Calhoun and Schmidt",United Kingdom,Unknown,51+,2025-01-24,2025Q1
+78,Yu Inc,Portugal,Dev Shop / Software Consulting,51+,2026-05-26,2026Q2
+79,Jones Inc,United Kingdom,Management Consulting,1-10,2024-12-26,2024Q4
+80,"Hensley, Powell and David",Germany,Dev Shop / Software Consulting,51+,2024-07-08,2024Q3
+81,"Sanchez, Wheeler and Harvey",Germany,Dev Shop / Software Consulting,1-10,2024-11-02,2024Q4
+82,Sandoval-Cunningham,United States,Branding Agency,11-50,2025-03-12,2025Q1
+83,Donovan-Harris,Germany,Marketing Agency,1-10,2026-06-22,2026Q2
+84,"Edwards, Baker and Anderson",United States,Dev Shop / Software Consulting,51+,2024-02-09,2024Q1
+85,"Evans, Stewart and Walton",United Kingdom,Dev Shop / Software Consulting,11-50,2023-11-18,2023Q4
+86,Smith PLC,United States,Management Consulting,51+,2024-09-06,2024Q3
+87,"Ferrell, Jones and Lewis",Portugal,Digital Agency,1-10,2025-12-14,2025Q4
+88,Anderson-Bailey,Germany,Digital Agency,1-10,2025-03-04,2025Q1
+89,Suarez LLC,United Kingdom,PR Agency,1-10,2025-07-14,2025Q3
+90,Moore-Bass,Portugal,PR Agency,11-50,2025-07-24,2025Q3
+91,"Turner, Riggs and Roman",United States,PR Agency,1-10,2025-01-11,2025Q1
+92,"Smith, Montoya and Evans",Germany,Management Consulting,1-10,2024-10-17,2024Q4
+93,"Garcia, Humphrey and Baker",United Kingdom,Management Consulting,1-10,2026-03-18,2026Q1
+94,Newton and Sons,United Kingdom,PR Agency,51+,2023-10-24,2023Q4
+95,Campbell-Clark,United Kingdom,Digital Agency,1-10,2025-01-27,2025Q1
+96,Harris-Walters,United States,Digital Agency,1-10,2025-07-20,2025Q3
+97,Wagner-King,United Kingdom,Design Studio,1-10,2026-01-17,2026Q1
+98,Davis Group,Portugal,Design Studio,11-50,2024-12-22,2024Q4
+99,Williams-Cook,United Kingdom,Management Consulting,11-50,2024-09-03,2024Q3
+100,Walsh LLC,Germany,Design Studio,11-50,2025-12-26,2025Q4
+101,Figueroa PLC,United States,Branding Agency,1-10,2025-03-20,2025Q1
+102,"Patterson, Smith and Jones",United States,PR Agency,1-10,2025-06-19,2025Q2
+103,"Mckee, Gardner and Davenport",Germany,Design Studio,1-10,2023-08-05,2023Q3
+104,"Tran, Jordan and Williams",United States,Dev Shop / Software Consulting,11-50,2026-02-04,2026Q1
+105,Nolan-Flynn,United States,PR Agency,11-50,2026-05-17,2026Q2
+106,Nolan and Sons,United Kingdom,Marketing Agency,51+,2026-05-15,2026Q2
+107,"Wright, Garcia and Deleon",United Kingdom,Digital Agency,11-50,2025-12-20,2025Q4
+108,Dickson-Brady,Germany,Dev Shop / Software Consulting,1-10,2025-09-24,2025Q3
+109,Hancock and Sons,United Kingdom,Branding Agency,51+,2025-05-06,2025Q2
+110,Johnson-Doyle,United Kingdom,Design Studio,1-10,2024-09-27,2024Q3
+111,Patton-Jenkins,Germany,PR Agency,11-50,2024-06-08,2024Q2
+112,"Shields, Cochran and Adams",United States,Management Consulting,1-10,2025-09-11,2025Q3
+113,"Rodriguez, Brennan and Garrison",United Kingdom,Design Studio,1-10,2026-03-13,2026Q1
+114,Gonzalez Group,Germany,Branding Agency,1-10,2025-02-11,2025Q1
+115,Torres-Pope,United Kingdom,Branding Agency,1-10,2026-01-13,2026Q1
+116,Walker Ltd,United Kingdom,Dev Shop / Software Consulting,11-50,2023-11-25,2023Q4
+117,Ross LLC,United Kingdom,Management Consulting,51+,2026-06-25,2026Q2
+118,Rasmussen LLC,Portugal,Digital Agency,11-50,2024-12-24,2024Q4
+119,May-Ross,Germany,Branding Agency,51+,2026-05-08,2026Q2
+120,"Rivera, Johnson and Wiley",United Kingdom,PR Agency,1-10,2025-12-22,2025Q4
+121,White-Estes,Germany,Design Studio,11-50,2023-09-20,2023Q3
+122,Johnson-Carlson,Portugal,PR Agency,11-50,2024-05-01,2024Q2
+123,Chandler-Edwards,United Kingdom,Design Studio,51+,2026-04-02,2026Q2
+124,"Joyce, Wilson and Lam",United States,Management Consulting,1-10,2026-02-25,2026Q1
+125,Scott Ltd,United States,Branding Agency,51+,2025-09-09,2025Q3
+126,Smith-Frost,United Kingdom,Marketing Agency,11-50,2026-06-12,2026Q2
+127,"Mcdaniel, Bentley and Mclaughlin",United States,Marketing Agency,51+,2024-09-25,2024Q3
+128,Diaz Inc,United States,Digital Agency,11-50,2026-06-05,2026Q2
+129,"Mccall, Hanson and Alvarado",United Kingdom,Design Studio,1-10,2026-03-15,2026Q1
+130,Cortez LLC,Germany,Digital Agency,1-10,2025-07-24,2025Q3
+131,"Parker, Ortiz and Powell",Germany,Management Consulting,1-10,2025-06-04,2025Q2
+132,Spencer-Lee,Portugal,Branding Agency,11-50,2026-02-13,2026Q1
+133,"Bentley, Byrd and Orr",United States,Dev Shop / Software Consulting,11-50,2025-03-21,2025Q1
+134,"Carroll, Sullivan and Bass",Germany,PR Agency,1-10,2023-08-20,2023Q3
+135,Mitchell-Jordan,Germany,Marketing Agency,11-50,2025-12-12,2025Q4
+136,"Lawson, Morris and Ramos",Germany,PR Agency,1-10,2024-11-11,2024Q4
+137,"Lewis, Kennedy and Santana",United Kingdom,Unknown,1-10,2024-10-12,2024Q4
+138,"Jackson, Miller and Robertson",Germany,Branding Agency,11-50,2025-08-06,2025Q3
+139,"Harvey, Davis and Crane",Portugal,Dev Shop / Software Consulting,1-10,2025-03-18,2025Q1
+140,Chambers and Sons,United Kingdom,Digital Agency,11-50,2024-01-09,2024Q1
+141,Hernandez Inc,United States,Management Consulting,51+,2024-06-15,2024Q2
+142,Riggs PLC,United Kingdom,Branding Agency,11-50,2025-11-11,2025Q4
+143,Gibson Ltd,Portugal,Design Studio,1-10,2024-08-12,2024Q3
+144,"Lee, Horton and Snyder",United States,PR Agency,51+,2024-10-09,2024Q4
+145,Hernandez Ltd,United Kingdom,Design Studio,1-10,2026-06-24,2026Q2
+146,Stafford Inc,United Kingdom,Branding Agency,1-10,2026-06-21,2026Q2
+147,Robinson-Brock,United Kingdom,Management Consulting,1-10,2026-01-08,2026Q1
+148,"Holmes, Williams and Wright",United States,Management Consulting,11-50,2024-04-16,2024Q2
+149,Bryant Group,United States,Digital Agency,51+,2023-12-11,2023Q4
+150,"Schmidt, Hansen and Stewart",United Kingdom,Design Studio,1-10,2023-12-04,2023Q4
+151,Salazar-Ball,United States,Dev Shop / Software Consulting,11-50,2025-10-23,2025Q4
+152,"Simmons, Meadows and Griffin",United States,PR Agency,1-10,2026-05-19,2026Q2
+153,Manning Group,United Kingdom,Marketing Agency,1-10,2025-06-27,2025Q2
+154,Green-Wright,United States,Marketing Agency,1-10,2025-07-23,2025Q3
+155,"Ramirez, Strickland and Washington",United States,Digital Agency,51+,2024-05-10,2024Q2
+156,Hill Inc,United States,Branding Agency,51+,2026-06-04,2026Q2
+157,"Mitchell, Nelson and Flores",United Kingdom,Branding Agency,1-10,2025-11-11,2025Q4
+158,"Miller, Hernandez and Reyes",United States,Branding Agency,51+,2024-12-04,2024Q4
+159,Mccarthy Inc,United Kingdom,PR Agency,1-10,2025-10-22,2025Q4
+160,Russell-Daniels,United States,Management Consulting,11-50,2023-10-03,2023Q4
+161,Brown-Wall,United States,Digital Agency,11-50,2025-07-20,2025Q3
+162,Stein-Silva,United States,Branding Agency,11-50,2025-12-15,2025Q4
+163,"Smith, Gilmore and Johnston",United Kingdom,Digital Agency,1-10,2024-08-20,2024Q3
+164,Smith-Bell,Portugal,Dev Shop / Software Consulting,1-10,2025-11-07,2025Q4
+165,Castaneda-Ashley,United States,Design Studio,1-10,2026-06-06,2026Q2
+166,Medina-Navarro,United States,PR Agency,1-10,2025-09-20,2025Q3
+167,"Hurst, Freeman and Nelson",United States,Management Consulting,1-10,2025-07-23,2025Q3
+168,Johnson-Rogers,United States,Management Consulting,1-10,2025-10-26,2025Q4
+169,"Yates, Ramsey and Pittman",United Kingdom,Design Studio,11-50,2024-10-14,2024Q4
+170,Hooper PLC,United States,Management Consulting,1-10,2024-03-27,2024Q1
+171,Meadows PLC,United States,Digital Agency,11-50,2024-10-24,2024Q4
+172,"Alvarado, Miller and Patterson",Portugal,Branding Agency,1-10,2025-09-23,2025Q3
+173,White-Green,United Kingdom,Digital Agency,1-10,2024-11-16,2024Q4
+174,Lewis-Murphy,United Kingdom,PR Agency,51+,2025-01-11,2025Q1
+175,Ramirez-Bean,United States,PR Agency,1-10,2024-08-27,2024Q3
+176,King-Miller,United Kingdom,Dev Shop / Software Consulting,1-10,2024-03-22,2024Q1
+177,Curry Inc,United Kingdom,Design Studio,11-50,2025-02-16,2025Q1
+178,Walker-Jones,United Kingdom,Digital Agency,1-10,2026-02-14,2026Q1
+179,"Williams, Johnson and Wright",United Kingdom,Management Consulting,1-10,2025-01-14,2025Q1
+180,Howell and Sons,Germany,Management Consulting,51+,2023-10-14,2023Q4
+181,Wells Inc,United States,Dev Shop / Software Consulting,51+,2026-06-25,2026Q2
+182,"Gould, Marshall and Scott",United Kingdom,Management Consulting,1-10,2025-11-04,2025Q4
+183,Jackson-Lawson,United Kingdom,Marketing Agency,11-50,2026-01-22,2026Q1
+184,"Higgins, Strickland and Martin",United Kingdom,Digital Agency,1-10,2025-07-12,2025Q3
+185,Rodriguez-Johnson,United Kingdom,Marketing Agency,1-10,2024-10-07,2024Q4
+186,Johnston-Odonnell,United States,PR Agency,1-10,2025-08-16,2025Q3
+187,Sanders-Espinoza,Portugal,Design Studio,11-50,2025-01-23,2025Q1
+188,Vargas Ltd,United Kingdom,Marketing Agency,11-50,2025-03-08,2025Q1
+189,Garcia LLC,Portugal,Marketing Agency,1-10,2023-12-21,2023Q4
+190,"Burke, Martinez and Riggs",United Kingdom,Digital Agency,11-50,2025-08-23,2025Q3
+191,Reed Group,Germany,Design Studio,51+,2024-02-15,2024Q1
+192,"Wood, Hunter and Peterson",United States,Digital Agency,51+,2026-03-24,2026Q1
+193,Short-Garcia,Portugal,Dev Shop / Software Consulting,1-10,2024-04-28,2024Q2
+194,Reid-Poole,Portugal,Dev Shop / Software Consulting,11-50,2025-08-01,2025Q3
+195,"Hernandez, Thompson and Boyd",United States,PR Agency,11-50,2024-07-16,2024Q3
+196,"Nelson, Morton and Medina",United Kingdom,Management Consulting,1-10,2024-10-18,2024Q4
+197,Marshall-Petersen,United States,Dev Shop / Software Consulting,51+,2023-09-07,2023Q3
+198,"Adams, Christian and Rivas",United States,Dev Shop / Software Consulting,1-10,2026-04-25,2026Q2
+199,Ramirez Group,United States,Dev Shop / Software Consulting,1-10,2025-03-13,2025Q1
+200,Christensen PLC,Germany,Design Studio,11-50,2025-06-16,2025Q2
+201,"Barnett, Rogers and Snyder",United States,Management Consulting,51+,2026-03-28,2026Q1
+202,White-Lewis,Germany,Branding Agency,1-10,2023-08-01,2023Q3
+203,Peterson-Beard,United Kingdom,Design Studio,11-50,2023-07-03,2023Q3
+204,"Beard, Peters and Black",Portugal,PR Agency,1-10,2024-06-13,2024Q2
+205,Miller Ltd,Portugal,Dev Shop / Software Consulting,51+,2023-10-18,2023Q4
+206,Freeman-Chang,United States,Dev Shop / Software Consulting,11-50,2026-01-16,2026Q1
+207,"Alvarez, Joseph and West",United States,PR Agency,1-10,2024-10-22,2024Q4
+208,Davis and Sons,Portugal,Branding Agency,11-50,2023-12-04,2023Q4
+209,Holt-Torres,Germany,Design Studio,1-10,2025-05-23,2025Q2
+210,"Wood, Tran and Cooper",United States,Marketing Agency,1-10,2024-12-10,2024Q4
+211,"Pierce, Bell and Chavez",United Kingdom,Branding Agency,1-10,2026-05-19,2026Q2
+212,King-Martinez,United States,Digital Agency,1-10,2025-06-28,2025Q2
+213,Stewart Ltd,Germany,Digital Agency,1-10,2026-03-05,2026Q1
+214,"Tapia, Vaughn and Lee",United Kingdom,PR Agency,1-10,2025-08-01,2025Q3
+215,"Washington, Hardy and Bray",United Kingdom,Digital Agency,1-10,2026-04-06,2026Q2
+216,"Carlson, Hooper and Wall",Portugal,Management Consulting,51+,2025-10-21,2025Q4
+217,Perez-White,Germany,Management Consulting,1-10,2024-09-07,2024Q3
+218,Erickson and Sons,Portugal,Branding Agency,1-10,2026-02-19,2026Q1
+219,Williams-Brown,United States,Marketing Agency,11-50,2026-01-27,2026Q1
+220,Terry-Martinez,United States,PR Agency,11-50,2025-05-25,2025Q2
+221,Garcia-Smith,United States,Branding Agency,11-50,2026-06-27,2026Q2
+222,Harrison-Alexander,United States,Digital Agency,11-50,2023-12-26,2023Q4
+223,Sheppard LLC,United Kingdom,PR Agency,11-50,2026-06-25,2026Q2
+224,Wilson-Jones,Germany,PR Agency,11-50,2026-06-04,2026Q2
+225,Jones-Soto,United Kingdom,Branding Agency,1-10,2024-08-02,2024Q3
+226,Hernandez PLC,Germany,Management Consulting,1-10,2025-05-11,2025Q2
+227,Miller-Wright,United States,Digital Agency,1-10,2026-01-12,2026Q1
+228,"Duran, Obrien and Gibbs",Portugal,Management Consulting,11-50,2026-01-27,2026Q1
+229,Rowe Group,Portugal,Dev Shop / Software Consulting,1-10,2025-05-11,2025Q2
+230,Kerr-Evans,United Kingdom,Dev Shop / Software Consulting,1-10,2025-09-08,2025Q3
+231,"Branch, Torres and Oliver",Germany,Dev Shop / Software Consulting,51+,2025-04-26,2025Q2
+232,"Choi, Garcia and Farmer",United States,Management Consulting,1-10,2023-11-18,2023Q4
+233,"Clark, Guerrero and Moore",United States,Management Consulting,11-50,2023-11-19,2023Q4
+234,Arnold and Sons,United Kingdom,PR Agency,1-10,2024-10-08,2024Q4
+235,Ortiz Ltd,United Kingdom,Management Consulting,51+,2024-08-20,2024Q3
+236,"Harrison, Johnson and Roberts",United States,PR Agency,11-50,2024-09-10,2024Q3
+237,Warner-Gibson,United States,Marketing Agency,1-10,2025-06-10,2025Q2
+238,"Hall, Baker and Moody",United States,Digital Agency,1-10,2024-08-05,2024Q3
+239,"Guerrero, Peck and Coleman",United States,PR Agency,51+,2024-08-18,2024Q3
+240,"Walker, Hernandez and Baker",Germany,Branding Agency,1-10,2024-08-21,2024Q3
+241,Jones and Sons,United Kingdom,Management Consulting,1-10,2024-06-02,2024Q2
+242,Larson-Holloway,United States,Design Studio,1-10,2025-12-28,2025Q4
+243,Gonzales-Harrison,Portugal,PR Agency,1-10,2025-02-12,2025Q1
+244,Lyons-Bender,United States,Dev Shop / Software Consulting,51+,2024-05-27,2024Q2
+245,"Fernandez, Kim and George",Germany,Digital Agency,11-50,2024-06-01,2024Q2
+246,Navarro-Munoz,United States,Dev Shop / Software Consulting,51+,2025-12-19,2025Q4
+247,Davis Ltd,Germany,Digital Agency,11-50,2025-12-07,2025Q4
+248,"Matthews, Smith and Hubbard",United States,Dev Shop / Software Consulting,11-50,2024-09-20,2024Q3
+249,Johnston-Hines,Portugal,Design Studio,1-10,2026-05-18,2026Q2
+250,Ruiz Ltd,United States,Marketing Agency,11-50,2026-02-05,2026Q1
+251,Moon-White,Germany,Management Consulting,1-10,2026-04-01,2026Q2
+252,"Graham, Olsen and Costa",United States,Digital Agency,11-50,2024-11-04,2024Q4
+253,Bailey-Cook,United Kingdom,Digital Agency,11-50,2025-04-19,2025Q2
+254,"Garcia, Martin and Jenkins",United Kingdom,Marketing Agency,51+,2026-01-24,2026Q1
+255,Roberts-Landry,Portugal,Branding Agency,11-50,2024-03-21,2024Q1
+256,"Johnson, Miller and King",United States,Branding Agency,1-10,2024-10-14,2024Q4
+257,Cordova Group,United Kingdom,Marketing Agency,51+,2025-10-03,2025Q4
+258,"Bryan, Smith and Booth",United States,Digital Agency,1-10,2025-01-21,2025Q1
+259,Gutierrez-Lopez,Germany,Digital Agency,1-10,2025-09-17,2025Q3
+260,Dean-Jimenez,United Kingdom,Dev Shop / Software Consulting,1-10,2024-03-23,2024Q1
+261,Wolf-Harris,Germany,Digital Agency,51+,2025-06-24,2025Q2
+262,"Anderson, Roberts and Gilmore",United Kingdom,Branding Agency,51+,2025-05-11,2025Q2
+263,Martinez-Dudley,United States,Management Consulting,11-50,2025-12-14,2025Q4
+264,"Lloyd, Mckinney and Collins",United States,PR Agency,51+,2024-06-16,2024Q2
+265,Tran Inc,Germany,Marketing Agency,1-10,2025-09-24,2025Q3
+266,Gay Inc,Germany,Digital Agency,11-50,2024-10-18,2024Q4
+267,Valentine-Holland,Germany,Dev Shop / Software Consulting,1-10,2025-03-22,2025Q1
+268,Jimenez Ltd,United Kingdom,Marketing Agency,51+,2026-06-10,2026Q2
+269,Hicks-Hill,United States,Design Studio,11-50,2025-09-05,2025Q3
+270,Baird-Sanchez,United States,Dev Shop / Software Consulting,1-10,2025-07-18,2025Q3
+271,"Thomas, Lee and Greene",Germany,Dev Shop / Software Consulting,11-50,2024-05-14,2024Q2
+272,"Suarez, Shields and Hill",Portugal,Digital Agency,11-50,2026-04-22,2026Q2
+273,Morgan-French,United States,Dev Shop / Software Consulting,51+,2024-07-23,2024Q3
+274,Hoover-Campbell,United States,Management Consulting,11-50,2025-01-11,2025Q1
+275,Monroe-Carpenter,United States,PR Agency,1-10,2024-11-13,2024Q4
+276,"Burns, Hernandez and Ryan",Germany,Marketing Agency,51+,2025-07-24,2025Q3
+277,Cook-Hines,United States,Design Studio,1-10,2025-05-12,2025Q2
+278,Gibson-Morris,United States,Digital Agency,51+,2023-12-03,2023Q4
+279,Pollard and Sons,United States,Marketing Agency,11-50,2025-08-22,2025Q3
+280,"Reyes, Chase and Jenkins",United Kingdom,Digital Agency,1-10,2023-09-15,2023Q3
+281,Garner-Thornton,United States,Unknown,11-50,2025-01-14,2025Q1
+282,Hughes-Alvarado,Germany,Digital Agency,11-50,2024-02-22,2024Q1
+283,"Pollard, Simpson and Johnson",United States,Marketing Agency,51+,2025-09-01,2025Q3
+284,"Sanford, Rivera and Garcia",Portugal,Dev Shop / Software Consulting,11-50,2024-06-09,2024Q2
+285,Garcia-Lozano,United States,Branding Agency,1-10,2025-07-06,2025Q3
+286,Bowen Group,United Kingdom,Digital Agency,1-10,2024-06-27,2024Q2
+287,"Booker, Jones and Harrington",United States,PR Agency,1-10,2024-09-02,2024Q3
+288,Morgan-Schwartz,United Kingdom,Management Consulting,1-10,2026-01-19,2026Q1
+289,"Miller, Murphy and Craig",United Kingdom,Management Consulting,11-50,2024-09-04,2024Q3
+290,"James, Stewart and Higgins",Portugal,Digital Agency,1-10,2026-01-15,2026Q1
+291,Brennan-Johnson,Portugal,Dev Shop / Software Consulting,1-10,2024-10-04,2024Q4
+292,Young Ltd,United Kingdom,Branding Agency,11-50,2026-03-28,2026Q1
+293,Bright-Francis,United States,Design Studio,1-10,2026-05-03,2026Q2
+294,Good-Hodges,United States,Dev Shop / Software Consulting,11-50,2024-11-12,2024Q4
+295,"Brennan, Wallace and Benson",Portugal,Design Studio,11-50,2026-06-08,2026Q2
+296,Williams Inc,United States,Design Studio,1-10,2024-03-25,2024Q1
+297,Howard-Jordan,United States,PR Agency,51+,2025-07-16,2025Q3
+298,Schmidt PLC,United Kingdom,PR Agency,11-50,2025-04-19,2025Q2
+299,"Sparks, Jackson and Miller",Portugal,PR Agency,1-10,2026-01-11,2026Q1
+300,Harvey-Allen,United States,Management Consulting,1-10,2024-08-26,2024Q3
+301,"Thomas, Murray and King",United States,Management Consulting,11-50,2025-01-15,2025Q1
+302,Estrada-Nolan,United States,Marketing Agency,11-50,2024-12-21,2024Q4
+303,Santana-Byrd,Portugal,Digital Agency,11-50,2025-06-13,2025Q2
+304,Jones LLC,United Kingdom,Marketing Agency,11-50,2025-06-15,2025Q2
+305,"Evans, Hayden and Vaughn",United Kingdom,Digital Agency,1-10,2024-06-16,2024Q2
+306,Bruce-Gonzalez,Portugal,Dev Shop / Software Consulting,1-10,2025-12-27,2025Q4
+307,Castaneda-Rodriguez,Germany,Design Studio,11-50,2024-12-02,2024Q4
+308,Armstrong-Andrews,United Kingdom,Digital Agency,1-10,2025-04-20,2025Q2
+309,"Phillips, Spence and Barrett",United States,Branding Agency,1-10,2026-03-25,2026Q1
+310,Smith-Grimes,United Kingdom,PR Agency,11-50,2026-06-11,2026Q2
+311,"Beltran, Lozano and Mcgee",United States,Management Consulting,11-50,2024-07-09,2024Q3
+312,Parsons-Hall,Germany,Dev Shop / Software Consulting,51+,2025-06-05,2025Q2
+313,Robinson-Lee,United Kingdom,Management Consulting,1-10,2025-11-10,2025Q4
+314,Byrd-Le,Germany,Digital Agency,1-10,2025-05-23,2025Q2
+315,"Becker, Taylor and Davis",United States,Dev Shop / Software Consulting,1-10,2025-07-11,2025Q3
+316,"Lucas, Parker and Alexander",Germany,PR Agency,11-50,2026-06-22,2026Q2
+317,"Diaz, Anderson and Browning",United States,Digital Agency,11-50,2026-03-12,2026Q1
+318,Burgess-Thompson,United States,Management Consulting,51+,2025-05-25,2025Q2
+319,Buchanan LLC,United States,Marketing Agency,1-10,2025-01-10,2025Q1
+320,"Shaw, Nelson and Martin",United States,Unknown,11-50,2025-01-24,2025Q1
+321,Coffey-Phillips,United States,Dev Shop / Software Consulting,1-10,2025-05-20,2025Q2
+322,Brock-Mcdonald,United States,Dev Shop / Software Consulting,1-10,2024-12-23,2024Q4
+323,Taylor and Sons,Germany,Branding Agency,1-10,2025-08-02,2025Q3
+324,"Ramsey, Whitney and Coffey",Germany,Branding Agency,1-10,2024-10-20,2024Q4
+325,"Diaz, Gibbs and Smith",Germany,Digital Agency,1-10,2026-05-08,2026Q2
+326,"Martinez, Richardson and Curry",Germany,Dev Shop / Software Consulting,1-10,2026-06-07,2026Q2
+327,Richards-Carson,Portugal,Branding Agency,51+,2023-11-25,2023Q4
+328,Rodriguez-Hall,United States,Design Studio,11-50,2024-07-27,2024Q3
+329,Harvey PLC,United Kingdom,Marketing Agency,51+,2025-05-21,2025Q2
+330,Herman-Walker,United States,PR Agency,51+,2025-10-28,2025Q4
+331,Reid Group,United States,Design Studio,1-10,2026-04-09,2026Q2
+332,"Turner, Ortiz and Taylor",United Kingdom,Marketing Agency,11-50,2024-08-08,2024Q3
+333,Torres Group,Portugal,Branding Agency,51+,2025-09-02,2025Q3
+334,Davis PLC,United States,Marketing Agency,1-10,2026-05-12,2026Q2
+335,Price LLC,United States,PR Agency,1-10,2025-07-21,2025Q3
+336,"Avery, Horton and Fernandez",United States,Dev Shop / Software Consulting,1-10,2025-10-16,2025Q4
+337,"Newton, Moore and Perry",United States,Branding Agency,11-50,2026-02-20,2026Q1
+338,Bass PLC,United States,Dev Shop / Software Consulting,1-10,2025-05-05,2025Q2
+339,Crosby-Ramirez,Germany,Marketing Agency,11-50,2025-11-25,2025Q4
+340,"Wood, Ramos and Sampson",United States,Branding Agency,1-10,2024-06-21,2024Q2
+341,Garcia-Jennings,United Kingdom,Branding Agency,1-10,2024-06-20,2024Q2
+342,"Winters, Newman and Brown",United Kingdom,PR Agency,11-50,2026-04-05,2026Q2
+343,Lopez-Martinez,United States,Digital Agency,1-10,2024-08-14,2024Q3
+344,Davis-Lewis,Germany,Management Consulting,11-50,2025-03-03,2025Q1
+345,"Harper, Smith and Buchanan",United Kingdom,Digital Agency,11-50,2026-03-18,2026Q1
+346,Zhang PLC,Portugal,Branding Agency,1-10,2024-12-12,2024Q4
+347,Jones PLC,United States,Management Consulting,11-50,2026-05-08,2026Q2
+348,Willis and Sons,United Kingdom,PR Agency,11-50,2025-06-25,2025Q2
+349,Schroeder-Kramer,United States,Dev Shop / Software Consulting,11-50,2023-08-21,2023Q3
+350,"Smith, Garrison and Thomas",Germany,PR Agency,1-10,2026-04-16,2026Q2
+351,Fernandez and Sons,Germany,Dev Shop / Software Consulting,1-10,2026-04-15,2026Q2
+352,Guerrero Inc,United States,Marketing Agency,11-50,2024-02-11,2024Q1
+353,Smith and Sons,United Kingdom,Digital Agency,51+,2025-10-16,2025Q4
+354,"Morris, Thompson and Williams",Germany,Management Consulting,1-10,2026-01-28,2026Q1
+355,"Fisher, Wilson and Brown",Portugal,Marketing Agency,1-10,2025-03-26,2025Q1
+356,Strickland-Palmer,Portugal,Branding Agency,11-50,2024-09-11,2024Q3
+357,Hayes and Sons,United Kingdom,Dev Shop / Software Consulting,1-10,2025-08-17,2025Q3
+358,"Williams, Logan and Camacho",United States,Branding Agency,1-10,2026-04-20,2026Q2
+359,"Turner, Schneider and Johnson",United States,Marketing Agency,1-10,2025-01-03,2025Q1
+360,Boone-Simmons,United States,PR Agency,1-10,2025-03-14,2025Q1
+361,Henry Group,United Kingdom,PR Agency,1-10,2026-04-28,2026Q2
+362,Lam LLC,United Kingdom,PR Agency,1-10,2026-05-26,2026Q2
+363,"Hernandez, Martinez and Weber",United States,Management Consulting,11-50,2026-04-17,2026Q2
+364,"Kelley, Nguyen and Vang",Germany,Design Studio,51+,2026-05-28,2026Q2
+365,"Phillips, Wagner and Jordan",Germany,Marketing Agency,1-10,2024-01-08,2024Q1
+366,"Wilson, Pena and Rich",United States,Digital Agency,1-10,2026-02-02,2026Q1
+367,"Le, Lewis and Hayes",Germany,Management Consulting,51+,2026-06-15,2026Q2
+368,Gutierrez Group,United Kingdom,Branding Agency,11-50,2025-02-11,2025Q1
+369,Perry-Davis,United States,PR Agency,1-10,2024-11-06,2024Q4
+370,Edwards-Scott,United States,Management Consulting,11-50,2025-09-25,2025Q3
+371,Mcdaniel Group,United Kingdom,Management Consulting,51+,2026-01-23,2026Q1
+372,Davis Inc,United Kingdom,Dev Shop / Software Consulting,1-10,2025-05-03,2025Q2
+373,Reynolds Ltd,Portugal,Marketing Agency,1-10,2024-04-26,2024Q2
+374,"Watson, Anderson and Brown",Germany,Management Consulting,1-10,2026-03-23,2026Q1
+375,"Hoffman, Santiago and Jenkins",United Kingdom,Dev Shop / Software Consulting,51+,2025-03-06,2025Q1
+376,"Pugh, Henderson and Moon",Portugal,Dev Shop / Software Consulting,11-50,2024-05-12,2024Q2
+377,Schmitt PLC,United States,Design Studio,1-10,2025-05-08,2025Q2
+378,Bell-Lane,United States,Management Consulting,11-50,2026-01-15,2026Q1
+379,Moore Group,United Kingdom,Marketing Agency,11-50,2024-06-03,2024Q2
+380,Boone LLC,Portugal,Digital Agency,11-50,2024-11-14,2024Q4
+381,"Richardson, Farmer and Andrews",Germany,Management Consulting,1-10,2025-08-21,2025Q3
+382,Bruce-Villegas,United Kingdom,Design Studio,11-50,2024-05-27,2024Q2
+383,"Austin, Day and Johnson",United Kingdom,Design Studio,1-10,2025-07-14,2025Q3
+384,"Gallegos, Adams and White",Portugal,Digital Agency,11-50,2025-06-05,2025Q2
+385,"Farmer, Dorsey and Bell",United States,Design Studio,51+,2025-12-12,2025Q4
+386,Kane PLC,United Kingdom,Marketing Agency,1-10,2024-09-09,2024Q3
+387,"Morales, Thomas and Schultz",Portugal,PR Agency,1-10,2025-02-10,2025Q1
+388,Davis PLC,United States,Digital Agency,11-50,2025-06-19,2025Q2
+389,Bennett Group,Germany,Digital Agency,11-50,2025-10-11,2025Q4
+390,Moore-Collins,United Kingdom,Marketing Agency,11-50,2026-01-03,2026Q1
+391,Frank-Bradley,United Kingdom,PR Agency,11-50,2025-10-07,2025Q4
+392,Ware and Sons,United Kingdom,Branding Agency,11-50,2024-09-21,2024Q3
+393,Webster Inc,United Kingdom,Design Studio,1-10,2024-12-26,2024Q4
+394,"Miller, Ramos and Coleman",United Kingdom,PR Agency,1-10,2025-11-02,2025Q4
+395,"Ramos, Nelson and Fischer",United Kingdom,Management Consulting,1-10,2025-02-20,2025Q1
+396,Reed Inc,Portugal,Dev Shop / Software Consulting,1-10,2025-05-12,2025Q2
+397,Gregory-Watkins,United States,Digital Agency,1-10,2024-03-04,2024Q1
+398,"Estrada, Williams and Foster",United Kingdom,Design Studio,1-10,2025-09-05,2025Q3
+399,"Brown, Harris and Dougherty",United States,Digital Agency,1-10,2024-09-14,2024Q3
+400,Duran LLC,Portugal,Management Consulting,1-10,2025-11-19,2025Q4
+401,Wilson-Jimenez,United States,Digital Agency,1-10,2025-05-15,2025Q2
+402,Thompson-James,United States,Branding Agency,1-10,2026-05-17,2026Q2
+403,"Hall, Hansen and Barnett",United States,Marketing Agency,11-50,2025-08-02,2025Q3
+404,Jones-Hensley,United Kingdom,PR Agency,11-50,2025-07-16,2025Q3
+405,Graham Group,United States,Design Studio,1-10,2025-05-09,2025Q2
+406,Atkins PLC,Germany,Branding Agency,1-10,2025-11-02,2025Q4
+407,Berry-Mckinney,United States,Marketing Agency,11-50,2026-05-13,2026Q2
+408,Roberts-Sullivan,Germany,Digital Agency,1-10,2026-04-22,2026Q2
+409,Jackson-Meza,United States,Management Consulting,1-10,2024-11-26,2024Q4
+410,Collier-Gillespie,United Kingdom,Design Studio,1-10,2024-10-07,2024Q4
+411,Kim Inc,United Kingdom,Marketing Agency,1-10,2026-04-05,2026Q2
+412,Graham Group,Germany,Unknown,11-50,2026-06-20,2026Q2
+413,"Miller, Harrell and Reese",United States,Management Consulting,51+,2026-02-06,2026Q1
+414,Cook and Sons,United Kingdom,Digital Agency,11-50,2025-04-11,2025Q2
+415,Dixon Inc,United Kingdom,Digital Agency,1-10,2026-05-10,2026Q2
+416,"Hicks, Bullock and Bailey",United States,Marketing Agency,1-10,2026-06-14,2026Q2
+417,"Mullen, Brewer and Hernandez",Germany,PR Agency,11-50,2025-09-21,2025Q3
+418,Thomas and Sons,United Kingdom,Dev Shop / Software Consulting,51+,2024-07-25,2024Q3
+419,Morrison Ltd,United States,Branding Agency,1-10,2024-06-06,2024Q2
+420,Thompson Ltd,Germany,Branding Agency,11-50,2026-03-05,2026Q1
+421,Marshall-Elliott,United States,PR Agency,11-50,2024-12-04,2024Q4
+422,"Cole, Glass and Cunningham",United Kingdom,Branding Agency,1-10,2024-12-23,2024Q4
+423,"Downs, Morris and Maddox",United Kingdom,Branding Agency,11-50,2025-10-28,2025Q4
+424,Hernandez-Jones,Germany,Digital Agency,11-50,2026-01-07,2026Q1
+425,Welch-Hogan,Portugal,Branding Agency,1-10,2024-12-11,2024Q4
+426,"Brown, Romero and Collins",United Kingdom,Digital Agency,11-50,2024-05-12,2024Q2
+427,Johnson-Wood,Portugal,Dev Shop / Software Consulting,11-50,2024-01-23,2024Q1
+428,Jones-Lin,United Kingdom,Management Consulting,51+,2024-08-18,2024Q3
+429,Gilbert PLC,Portugal,Dev Shop / Software Consulting,51+,2024-09-10,2024Q3
+430,Ford-Spencer,Germany,Branding Agency,1-10,2023-12-12,2023Q4
+431,"Huang, Cole and Pacheco",Portugal,Management Consulting,11-50,2026-06-04,2026Q2
+432,"Lopez, Jacobs and Mason",United Kingdom,Branding Agency,51+,2025-04-27,2025Q2
+433,Hayes LLC,Germany,Marketing Agency,1-10,2024-10-10,2024Q4
+434,"Miller, Lucas and Williams",United States,PR Agency,51+,2025-06-09,2025Q2
+435,"Kim, Gonzales and Mills",United States,Management Consulting,11-50,2023-07-18,2023Q3
+436,Cox LLC,United States,Digital Agency,11-50,2025-04-08,2025Q2
+437,Ortiz-Morgan,Germany,PR Agency,11-50,2024-04-08,2024Q2
+438,"Williams, Mccoy and Cook",United Kingdom,Marketing Agency,11-50,2025-05-22,2025Q2
+439,Davis-Gregory,United States,Design Studio,11-50,2026-02-14,2026Q1
+440,King-York,Portugal,PR Agency,1-10,2025-06-07,2025Q2
+441,"Marks, Cook and Aguilar",United States,Marketing Agency,1-10,2023-10-25,2023Q4
+442,Rangel LLC,United Kingdom,PR Agency,11-50,2025-07-28,2025Q3
+443,"Hale, Myers and Larson",Portugal,Dev Shop / Software Consulting,1-10,2024-12-06,2024Q4
+444,Collins Group,United States,Dev Shop / Software Consulting,11-50,2026-03-16,2026Q1
+445,"Conner, Li and Santiago",Germany,Management Consulting,51+,2023-10-02,2023Q4
+446,"Osborn, Gaines and Davis",United Kingdom,Management Consulting,1-10,2025-11-10,2025Q4
+447,"Henderson, Cox and Cox",United Kingdom,Design Studio,11-50,2025-12-28,2025Q4
+448,Bean LLC,United States,Management Consulting,11-50,2024-04-06,2024Q2
+449,Lee-Cooke,United Kingdom,Marketing Agency,11-50,2025-02-24,2025Q1
+450,Jones Inc,United States,Design Studio,11-50,2024-07-06,2024Q3
+451,"Wise, Conley and Stephenson",United Kingdom,Branding Agency,1-10,2025-09-17,2025Q3
+452,Stanley PLC,United Kingdom,Design Studio,1-10,2024-05-16,2024Q2
+453,Harper and Sons,United States,Design Studio,1-10,2023-07-15,2023Q3
+454,White Ltd,Portugal,PR Agency,1-10,2025-02-19,2025Q1
+455,"Lamb, Martin and Kim",Germany,Marketing Agency,11-50,2024-09-22,2024Q3
+456,Diaz-Ball,United States,Digital Agency,1-10,2025-09-23,2025Q3
+457,Bishop-Goodwin,Germany,Management Consulting,11-50,2024-06-12,2024Q2
+458,Young-Allen,United States,Design Studio,1-10,2026-04-15,2026Q2
+459,Mckee-Lee,United Kingdom,Digital Agency,1-10,2024-07-16,2024Q3
+460,"Valentine, Joyce and Murray",Germany,Dev Shop / Software Consulting,11-50,2024-08-08,2024Q3
+461,Strickland-Shaw,United Kingdom,Digital Agency,11-50,2023-08-15,2023Q3
+462,Burch-Montoya,United States,Marketing Agency,51+,2025-07-02,2025Q3
+463,"Taylor, Wright and Davidson",Portugal,Digital Agency,1-10,2024-06-05,2024Q2
+464,Spencer-Garcia,Portugal,PR Agency,1-10,2025-06-07,2025Q2
+465,"Rosales, Mitchell and Hines",United Kingdom,Branding Agency,51+,2025-12-26,2025Q4
+466,Cole-Palmer,United States,Digital Agency,1-10,2025-11-02,2025Q4
+467,Davis-Lozano,Germany,Marketing Agency,1-10,2024-04-13,2024Q2
+468,Wilkerson-Arias,United States,Marketing Agency,1-10,2026-01-02,2026Q1
+469,Brown-Shaw,Germany,Marketing Agency,11-50,2026-06-03,2026Q2
+470,Hughes Inc,United Kingdom,Design Studio,1-10,2024-08-25,2024Q3
+471,Walker-Flores,United Kingdom,Branding Agency,11-50,2025-09-12,2025Q3
+472,Combs Ltd,United States,Branding Agency,51+,2024-10-13,2024Q4
+473,Moody-Taylor,Portugal,Design Studio,51+,2025-02-21,2025Q1
+474,Lowery-Kennedy,United States,Branding Agency,51+,2025-01-17,2025Q1
+475,Blake Group,Portugal,Dev Shop / Software Consulting,11-50,2026-02-01,2026Q1
+476,Gilbert-Bullock,United Kingdom,Branding Agency,11-50,2025-06-18,2025Q2
+477,Scott and Sons,United States,Design Studio,1-10,2026-05-09,2026Q2
+478,"Bentley, Lynch and Henderson",Portugal,Marketing Agency,11-50,2026-04-26,2026Q2
+479,Young-Martinez,United Kingdom,Marketing Agency,51+,2025-10-08,2025Q4
+480,Barnes PLC,United States,Digital Agency,1-10,2024-02-22,2024Q1
+481,Brown-Copeland,United States,Branding Agency,11-50,2026-04-15,2026Q2
+482,Carlson-Smith,United States,Marketing Agency,51+,2025-12-05,2025Q4
+483,"Andrews, Higgins and Carter",United States,PR Agency,11-50,2026-06-19,2026Q2
+484,Mendez and Sons,United Kingdom,Management Consulting,11-50,2025-01-08,2025Q1
+485,"Butler, Beck and Miller",United States,Design Studio,11-50,2026-03-14,2026Q1
+486,Jones-Fox,United States,PR Agency,51+,2025-12-06,2025Q4
+487,"Hartman, Romero and Smith",United Kingdom,Management Consulting,1-10,2026-03-21,2026Q1
+488,Williams-Hughes,Germany,Branding Agency,1-10,2025-12-14,2025Q4
+489,King-Smith,United States,Branding Agency,11-50,2024-03-08,2024Q1
+490,Cooper Ltd,United States,Dev Shop / Software Consulting,11-50,2023-12-15,2023Q4
+491,"Fuller, Ingram and Moss",United Kingdom,Digital Agency,51+,2023-07-17,2023Q3
+492,Anderson-Bell,United States,PR Agency,1-10,2023-11-03,2023Q4
+493,Li-Thompson,Germany,PR Agency,1-10,2024-02-27,2024Q1
+494,"Marshall, Dominguez and Welch",United States,Digital Agency,11-50,2025-05-02,2025Q2
+495,Brown Group,United States,PR Agency,11-50,2025-08-22,2025Q3
+496,Carter Inc,United Kingdom,Management Consulting,51+,2025-11-10,2025Q4
+497,Blackwell LLC,United States,PR Agency,51+,2024-03-04,2024Q1
+498,Robertson-Hays,Germany,PR Agency,51+,2025-10-20,2025Q4
+499,"Kennedy, Johnson and Lucas",United States,Management Consulting,1-10,2026-03-25,2026Q1
+500,Kelly-Norman,United Kingdom,Management Consulting,11-50,2023-12-09,2023Q4
+501,"Rivera, Martinez and Richardson",Portugal,Dev Shop / Software Consulting,1-10,2026-04-24,2026Q2
+502,Paul-Kline,Germany,Management Consulting,51+,2024-09-11,2024Q3
+503,Morgan-Lopez,United Kingdom,Design Studio,1-10,2024-12-01,2024Q4
+504,"Jimenez, Glass and Stone",Portugal,Branding Agency,11-50,2025-03-10,2025Q1
+505,Acosta Inc,United States,Dev Shop / Software Consulting,1-10,2025-06-08,2025Q2
+506,Morrison-Short,Germany,Management Consulting,11-50,2024-10-25,2024Q4
+507,"Carter, Garcia and Murphy",Portugal,Branding Agency,11-50,2026-04-15,2026Q2
+508,Parker-Morrison,Germany,PR Agency,1-10,2026-02-18,2026Q1
+509,Jackson-Wallace,Portugal,PR Agency,11-50,2026-02-02,2026Q1
+510,Williams-Berg,Germany,Dev Shop / Software Consulting,1-10,2024-03-22,2024Q1
+511,Mendez-Graham,United States,PR Agency,1-10,2023-10-08,2023Q4
+512,"Whitney, Gould and Jones",United States,Branding Agency,1-10,2026-06-12,2026Q2
+513,"Sullivan, Palmer and Brady",United Kingdom,Branding Agency,51+,2025-02-22,2025Q1
+514,Cisneros and Sons,United States,Unknown,11-50,2026-01-01,2026Q1
+515,"Gregory, Kim and Martinez",United States,Marketing Agency,51+,2026-02-17,2026Q1
+516,Osborne LLC,Germany,Design Studio,11-50,2025-08-04,2025Q3
+517,Reyes-Bradley,United Kingdom,Digital Agency,1-10,2025-11-17,2025Q4
+518,"Hernandez, Cole and Watson",United States,Marketing Agency,11-50,2024-07-12,2024Q3
+519,Hines-Berry,United Kingdom,PR Agency,1-10,2025-08-08,2025Q3
+520,"Richardson, Edwards and Ramirez",Germany,Dev Shop / Software Consulting,1-10,2025-02-21,2025Q1
+521,Johnson and Sons,United States,Digital Agency,1-10,2023-12-16,2023Q4
+522,Holmes-Mcintyre,United States,Unknown,1-10,2025-07-28,2025Q3
+523,Green LLC,Germany,Dev Shop / Software Consulting,11-50,2025-02-04,2025Q1
+524,"Griffin, Davies and Mitchell",Portugal,Dev Shop / Software Consulting,1-10,2024-08-23,2024Q3
+525,Gonzalez-Taylor,United Kingdom,Marketing Agency,1-10,2026-03-22,2026Q1
+526,Hayes Ltd,Portugal,Marketing Agency,11-50,2026-06-06,2026Q2
+527,Osborn-Cochran,United States,Digital Agency,51+,2023-12-05,2023Q4
+528,Contreras-Mckinney,Germany,Marketing Agency,1-10,2024-04-10,2024Q2
+529,"Daniels, Vance and York",United States,Branding Agency,11-50,2025-11-22,2025Q4
+530,"Mckinney, Graves and Thompson",United States,Design Studio,11-50,2026-01-26,2026Q1
+531,Hicks-Martinez,Germany,Management Consulting,11-50,2023-09-02,2023Q3
+532,Conner and Sons,United States,Digital Agency,1-10,2024-02-25,2024Q1
+533,Johnson-Spencer,United Kingdom,Management Consulting,51+,2024-11-01,2024Q4
+534,Mcdonald-Bird,Germany,Design Studio,1-10,2025-06-12,2025Q2
+535,Salazar Inc,United States,Digital Agency,1-10,2024-10-22,2024Q4
+536,Parker Ltd,Germany,Design Studio,1-10,2026-01-23,2026Q1
+537,"Mendoza, Jenkins and Ortiz",United States,Dev Shop / Software Consulting,1-10,2025-08-21,2025Q3
+538,"Jones, Compton and Day",United States,Marketing Agency,1-10,2025-06-01,2025Q2
+539,Owens-Holmes,United Kingdom,Marketing Agency,11-50,2026-01-05,2026Q1
+540,Humphrey PLC,United Kingdom,Digital Agency,11-50,2025-09-14,2025Q3
+541,"Matthews, Saunders and Anderson",United States,Digital Agency,11-50,2026-03-20,2026Q1
+542,"Bartlett, Brown and Martinez",Portugal,Branding Agency,1-10,2024-11-13,2024Q4
+543,Torres and Sons,Germany,Design Studio,11-50,2025-03-19,2025Q1
+544,Donovan-Perez,Germany,Management Consulting,1-10,2024-09-10,2024Q3
+545,"Jacobson, Singleton and King",United States,Management Consulting,1-10,2025-04-14,2025Q2
+546,"Huber, Hill and Weber",Germany,Design Studio,1-10,2025-11-24,2025Q4
+547,"Ferguson, Shaw and Jackson",United Kingdom,Marketing Agency,1-10,2025-08-05,2025Q3
+548,"Moore, Hopkins and Le",Portugal,Digital Agency,1-10,2024-04-13,2024Q2
+549,"Morgan, Bradshaw and Williams",United States,Dev Shop / Software Consulting,1-10,2026-01-27,2026Q1
+550,Miller Ltd,Portugal,Management Consulting,1-10,2025-03-20,2025Q1
+551,"Baker, Clark and Armstrong",United States,Branding Agency,1-10,2024-07-11,2024Q3
+552,"Fowler, Jimenez and Burton",Germany,Digital Agency,1-10,2025-03-26,2025Q1
+553,May-Turner,United States,Branding Agency,11-50,2024-05-12,2024Q2
+554,Ballard Ltd,United Kingdom,Digital Agency,11-50,2024-05-06,2024Q2
+555,Evans-Jones,United Kingdom,Branding Agency,51+,2024-12-23,2024Q4
+556,Moore Group,Germany,Marketing Agency,11-50,2026-01-27,2026Q1
+557,Marshall-Peterson,Germany,Design Studio,11-50,2025-08-21,2025Q3
+558,Edwards Ltd,United States,Branding Agency,1-10,2024-04-26,2024Q2
+559,Gross-Valencia,United Kingdom,Digital Agency,11-50,2024-07-13,2024Q3
+560,Anderson-Wood,Portugal,Branding Agency,51+,2026-02-18,2026Q1
+561,"Rodriguez, Allen and Martinez",Portugal,Dev Shop / Software Consulting,11-50,2026-02-18,2026Q1
+562,Wright-Davis,Portugal,Design Studio,1-10,2025-03-22,2025Q1
+563,Dougherty-Lin,United States,Digital Agency,11-50,2025-06-21,2025Q2
+564,Wright-Grimes,United States,Dev Shop / Software Consulting,11-50,2025-03-14,2025Q1
+565,Li PLC,United States,PR Agency,1-10,2024-10-17,2024Q4
+566,"Edwards, Hines and Jimenez",Germany,Management Consulting,1-10,2025-10-13,2025Q4
+567,"Owens, Koch and Jimenez",Germany,Design Studio,11-50,2024-03-12,2024Q1
+568,Landry PLC,United Kingdom,Marketing Agency,1-10,2026-04-04,2026Q2
+569,Levy-Lewis,Germany,Management Consulting,1-10,2023-12-15,2023Q4
+570,Williams-Campbell,United Kingdom,Marketing Agency,1-10,2025-10-15,2025Q4
+571,"Khan, Pena and Ruiz",United Kingdom,Marketing Agency,1-10,2024-07-26,2024Q3
+572,"Smith, Rodriguez and Anderson",United States,Marketing Agency,1-10,2025-01-22,2025Q1
+573,Luna-Gallagher,Portugal,Digital Agency,11-50,2025-04-06,2025Q2
+574,Williams-Williams,United States,Branding Agency,1-10,2025-09-08,2025Q3
+575,"Lee, Tran and Jones",United Kingdom,PR Agency,1-10,2025-12-14,2025Q4
+576,"Cole, Pierce and Bryan",Germany,Branding Agency,51+,2024-08-19,2024Q3
+577,"Becker, Wilson and Hester",United States,Management Consulting,1-10,2025-10-25,2025Q4
+578,Brooks-Hatfield,Germany,Dev Shop / Software Consulting,11-50,2026-01-28,2026Q1
+579,"Mcmillan, Fischer and Gonzalez",United States,Marketing Agency,1-10,2024-09-09,2024Q3
+580,"Morales, Williams and Williams",United Kingdom,Management Consulting,51+,2025-08-20,2025Q3
+581,"Cook, Wells and Bryant",United States,Management Consulting,1-10,2026-06-28,2026Q2
+582,"Barry, Taylor and Velazquez",United States,Dev Shop / Software Consulting,11-50,2024-12-10,2024Q4
+583,Martin-Ewing,United Kingdom,Management Consulting,11-50,2024-12-04,2024Q4
+584,"Kirby, Wheeler and Romero",United States,Design Studio,1-10,2023-10-17,2023Q4
+585,"Patel, Erickson and Evans",United Kingdom,Branding Agency,11-50,2025-06-06,2025Q2
+586,Richardson Ltd,United Kingdom,Design Studio,51+,2025-09-18,2025Q3
+587,Whitney PLC,United States,Dev Shop / Software Consulting,1-10,2025-10-15,2025Q4
+588,Robles-Swanson,Portugal,Branding Agency,51+,2026-03-05,2026Q1
+589,"Soto, Carlson and Baker",United States,PR Agency,11-50,2025-04-16,2025Q2
+590,"Patton, Parsons and Lane",United Kingdom,Branding Agency,11-50,2025-01-16,2025Q1
+591,"Williams, Castillo and Warren",United Kingdom,Design Studio,11-50,2024-08-10,2024Q3
+592,"Harvey, Randall and Hernandez",United States,Dev Shop / Software Consulting,1-10,2023-09-15,2023Q3
+593,"Allen, Armstrong and Graves",Germany,Digital Agency,1-10,2026-01-04,2026Q1
+594,Smith LLC,United States,Management Consulting,11-50,2024-06-18,2024Q2
+595,Hernandez-Vaughn,United States,Digital Agency,11-50,2026-06-07,2026Q2
+596,Shaw-Carr,United States,Dev Shop / Software Consulting,11-50,2026-04-08,2026Q2
+597,Salas-Fitzgerald,Portugal,Management Consulting,1-10,2023-10-28,2023Q4
+598,Thornton PLC,United Kingdom,Dev Shop / Software Consulting,51+,2025-07-26,2025Q3
+599,Hoffman Ltd,Germany,Management Consulting,11-50,2026-04-28,2026Q2
+600,Fox-Edwards,United Kingdom,Design Studio,1-10,2025-07-26,2025Q3
+601,Stevens PLC,United States,Management Consulting,1-10,2025-12-18,2025Q4
+602,Payne-Lowe,United Kingdom,PR Agency,1-10,2024-04-10,2024Q2
+603,"Becker, Lara and Baker",United States,PR Agency,51+,2025-01-27,2025Q1
+604,Lee-Wright,Portugal,Marketing Agency,11-50,2024-10-09,2024Q4
+605,"Evans, David and Hendrix",United States,Design Studio,51+,2025-11-05,2025Q4
+606,Bush-Vaughn,Germany,PR Agency,11-50,2025-10-13,2025Q4
+607,Stewart-Bailey,United Kingdom,Branding Agency,1-10,2025-03-13,2025Q1
+608,"Hill, Martinez and Rhodes",United Kingdom,Marketing Agency,51+,2026-05-13,2026Q2
+609,Huang-Foster,United States,Management Consulting,51+,2025-10-15,2025Q4
+610,Blevins-Ballard,United States,Dev Shop / Software Consulting,1-10,2024-11-28,2024Q4
+611,Williams-Moses,Germany,PR Agency,1-10,2024-06-23,2024Q2
+612,Reed Group,United States,Design Studio,11-50,2026-02-14,2026Q1
+613,"Scott, Mendoza and Harris",United Kingdom,Management Consulting,1-10,2025-06-11,2025Q2
+614,"Nelson, Hoffman and Nelson",United States,Dev Shop / Software Consulting,51+,2025-01-11,2025Q1
+615,Gilbert PLC,Germany,PR Agency,1-10,2026-05-26,2026Q2
+616,Sanchez Ltd,United States,Design Studio,51+,2025-12-15,2025Q4
+617,"Perez, Hall and Garcia",Portugal,PR Agency,1-10,2025-11-05,2025Q4
+618,Love-Garcia,United States,Management Consulting,51+,2023-08-03,2023Q3
+619,Smith PLC,United States,PR Agency,1-10,2026-01-06,2026Q1
+620,Russell Group,United Kingdom,Dev Shop / Software Consulting,11-50,2026-03-08,2026Q1
+621,Santos-Avila,United States,Design Studio,1-10,2026-03-16,2026Q1
+622,Morris-Brewer,United Kingdom,Branding Agency,11-50,2026-03-01,2026Q1
+623,Pearson and Sons,United States,Dev Shop / Software Consulting,1-10,2024-07-14,2024Q3
+624,"Rodgers, Jefferson and Johnson",United Kingdom,Marketing Agency,1-10,2026-04-24,2026Q2
+625,Butler and Sons,United States,Management Consulting,1-10,2024-03-05,2024Q1
+626,Osborn Group,Germany,PR Agency,51+,2025-10-22,2025Q4
+627,Lopez-Curry,United Kingdom,Unknown,1-10,2025-01-06,2025Q1
+628,Mcdowell-Smith,Germany,Design Studio,11-50,2026-04-14,2026Q2
+629,"Morrison, Hebert and Rogers",United Kingdom,Marketing Agency,1-10,2024-11-05,2024Q4
+630,Hays-Daniels,United Kingdom,Branding Agency,1-10,2025-09-11,2025Q3
+631,Small-Anderson,United States,Design Studio,11-50,2025-08-18,2025Q3
+632,"Mcdonald, Lee and Rodriguez",Germany,PR Agency,1-10,2025-10-01,2025Q4
+633,Simon Ltd,Germany,Digital Agency,1-10,2024-04-20,2024Q2
+634,Higgins-Smith,Germany,Marketing Agency,1-10,2026-03-26,2026Q1
+635,Gibbs-Bradley,Portugal,Marketing Agency,1-10,2026-01-08,2026Q1
+636,Thompson Ltd,United Kingdom,Marketing Agency,11-50,2025-10-12,2025Q4
+637,Wilcox-Robertson,United States,Unknown,51+,2025-11-14,2025Q4
+638,Morales Inc,Germany,Dev Shop / Software Consulting,11-50,2024-09-03,2024Q3
+639,Holden Group,United States,Marketing Agency,1-10,2025-05-02,2025Q2
+640,Boyle-Smith,United States,PR Agency,1-10,2024-11-17,2024Q4
+641,Young-Molina,United Kingdom,PR Agency,1-10,2023-07-18,2023Q3
+642,Turner-Sharp,United States,Marketing Agency,1-10,2025-09-17,2025Q3
+643,Green LLC,Portugal,Management Consulting,1-10,2026-06-13,2026Q2
+644,"Young, Contreras and Marshall",Germany,PR Agency,11-50,2026-05-03,2026Q2
+645,Sullivan PLC,United Kingdom,Design Studio,51+,2024-02-02,2024Q1
+646,"Carrillo, Vaughn and Fowler",Portugal,Digital Agency,1-10,2025-01-20,2025Q1
+647,Richardson-Walker,Germany,Design Studio,11-50,2024-02-04,2024Q1
+648,Mendoza Group,United States,Branding Agency,1-10,2024-10-12,2024Q4
+649,"Zhang, Brooks and Miles",Germany,Design Studio,11-50,2025-09-12,2025Q3
+650,Todd-Pham,Germany,Marketing Agency,1-10,2025-11-25,2025Q4
+651,Gill Ltd,United States,Digital Agency,1-10,2025-10-03,2025Q4
+652,"Marks, Miller and Griffin",Portugal,Branding Agency,11-50,2024-11-15,2024Q4
+653,"Cox, Stark and Rodriguez",United States,Design Studio,51+,2026-01-12,2026Q1
+654,"Leach, Harris and Herrera",Germany,PR Agency,51+,2025-02-24,2025Q1
+655,Murphy PLC,Germany,Dev Shop / Software Consulting,1-10,2024-04-28,2024Q2
+656,Wilson-Harris,United States,Design Studio,1-10,2024-08-06,2024Q3
+657,"Burns, Nolan and Griffin",Portugal,PR Agency,11-50,2025-12-24,2025Q4
+658,Chavez PLC,United States,PR Agency,1-10,2026-02-11,2026Q1
+659,Bryant-Brown,United States,Digital Agency,1-10,2025-12-22,2025Q4
+660,Chambers-Parker,United States,Marketing Agency,11-50,2024-02-13,2024Q1
+661,Foster Inc,United Kingdom,Unknown,1-10,2025-10-10,2025Q4
+662,"Robinson, Jones and Henderson",United Kingdom,Design Studio,1-10,2025-06-10,2025Q2
+663,"Brown, Mcknight and Michael",United States,Branding Agency,11-50,2024-09-12,2024Q3
+664,Andersen Group,United Kingdom,Design Studio,11-50,2025-01-24,2025Q1
+665,Mitchell and Sons,Germany,Marketing Agency,1-10,2024-03-14,2024Q1
+666,Cannon Ltd,United Kingdom,PR Agency,11-50,2026-04-01,2026Q2
+667,"Stuart, Brooks and Vance",United States,Dev Shop / Software Consulting,11-50,2026-01-24,2026Q1
+668,Kane-Knox,United States,Design Studio,11-50,2024-11-14,2024Q4
+669,Miller-Brandt,United States,PR Agency,51+,2025-07-09,2025Q3
+670,"Anderson, Dalton and Wilson",Portugal,Digital Agency,51+,2024-05-14,2024Q2
+671,"Long, Anderson and Irwin",United States,Marketing Agency,51+,2024-11-19,2024Q4
+672,Avila LLC,United States,Marketing Agency,11-50,2026-02-19,2026Q1
+673,Nunez-Stephens,United Kingdom,Design Studio,51+,2025-09-10,2025Q3
+674,"Gray, Hall and Murray",United States,PR Agency,11-50,2023-08-27,2023Q3
+675,Hill Ltd,United States,Marketing Agency,1-10,2024-09-07,2024Q3
+676,Johnson Ltd,Germany,Marketing Agency,1-10,2025-01-06,2025Q1
+677,Mendez-Mayer,United States,Management Consulting,1-10,2024-06-25,2024Q2
+678,Allen Inc,United States,Marketing Agency,1-10,2025-01-03,2025Q1
+679,Wheeler Group,Germany,Unknown,11-50,2026-05-20,2026Q2
+680,"Powers, Brennan and Sanchez",Germany,Marketing Agency,1-10,2026-05-23,2026Q2
+681,Morales and Sons,United States,PR Agency,11-50,2024-01-10,2024Q1
+682,"Robinson, Shields and Brown",Portugal,Branding Agency,1-10,2024-04-28,2024Q2
+683,"Holder, Young and Hendricks",Germany,Branding Agency,1-10,2025-08-04,2025Q3
+684,"Flores, Harper and Chambers",United States,Dev Shop / Software Consulting,1-10,2025-01-25,2025Q1
+685,Young-Walter,United States,Management Consulting,11-50,2026-03-22,2026Q1
+686,"Boyd, Gutierrez and Hill",United Kingdom,Management Consulting,11-50,2024-04-27,2024Q2
+687,"Fry, Hobbs and Buck",Portugal,PR Agency,1-10,2026-03-15,2026Q1
+688,"Shelton, Peters and Williams",United States,Dev Shop / Software Consulting,11-50,2026-04-11,2026Q2
+689,David-Powers,Portugal,Digital Agency,1-10,2025-10-14,2025Q4
+690,"Flores, Butler and Hernandez",United States,PR Agency,1-10,2025-01-14,2025Q1
+691,White-Medina,United States,Management Consulting,1-10,2026-03-15,2026Q1
+692,Atkinson LLC,United States,Design Studio,11-50,2024-10-21,2024Q4
+693,"Thomas, Ford and Brown",United Kingdom,Marketing Agency,11-50,2026-03-03,2026Q1
+694,Faulkner-Grant,United States,Dev Shop / Software Consulting,1-10,2024-09-17,2024Q3
+695,Price LLC,Portugal,Marketing Agency,11-50,2025-02-13,2025Q1
+696,Rivera Inc,United States,Branding Agency,11-50,2026-06-12,2026Q2
+697,Boone-Davis,United Kingdom,Design Studio,1-10,2024-11-01,2024Q4
+698,"Calderon, Williams and Bennett",United States,Dev Shop / Software Consulting,51+,2026-04-09,2026Q2
+699,"Morrison, Russo and Lopez",Portugal,Dev Shop / Software Consulting,11-50,2026-05-19,2026Q2
+700,"Ramsey, Hansen and Mendoza",Portugal,PR Agency,1-10,2025-10-08,2025Q4
+701,Turner-Stout,Germany,Marketing Agency,51+,2023-07-25,2023Q3
+702,Giles Ltd,United States,Dev Shop / Software Consulting,11-50,2025-02-13,2025Q1
+703,Burgess Group,Germany,Design Studio,11-50,2025-10-08,2025Q4
+704,Dominguez Ltd,Germany,Digital Agency,11-50,2024-07-01,2024Q3
+705,Sanders and Sons,United States,Design Studio,11-50,2024-09-19,2024Q3
+706,"Morris, Campbell and Owens",Germany,Branding Agency,11-50,2024-09-18,2024Q3
+707,"Howard, Green and Hunt",United Kingdom,Design Studio,1-10,2024-11-20,2024Q4
+708,Owens-Lang,United Kingdom,Digital Agency,1-10,2026-03-07,2026Q1
+709,"Harrison, Franco and Rocha",United States,Dev Shop / Software Consulting,1-10,2026-04-28,2026Q2
+710,Edwards-Williams,United States,PR Agency,1-10,2026-04-05,2026Q2
+711,Figueroa Inc,Germany,Marketing Agency,51+,2024-04-12,2024Q2
+712,Tran-Silva,Germany,Management Consulting,11-50,2025-09-10,2025Q3
+713,"Butler, Hernandez and Rivera",Portugal,Branding Agency,11-50,2025-10-26,2025Q4
+714,Hudson-Sanchez,United Kingdom,PR Agency,1-10,2026-06-18,2026Q2
+715,"Pena, Cohen and Scott",Portugal,Design Studio,11-50,2024-03-22,2024Q1
+716,Levy-May,United States,PR Agency,1-10,2025-11-10,2025Q4
+717,Murray-Oconnor,Germany,Digital Agency,51+,2024-09-13,2024Q3
+718,Jackson-Cortez,Germany,Design Studio,11-50,2024-07-20,2024Q3
+719,White-Preston,Germany,PR Agency,11-50,2024-06-19,2024Q2
+720,"Bernard, Warren and Combs",United Kingdom,Marketing Agency,1-10,2026-03-08,2026Q1
+721,Landry Ltd,United States,Marketing Agency,11-50,2025-01-27,2025Q1
+722,Duran Group,United Kingdom,Branding Agency,51+,2023-12-01,2023Q4
+723,Kirby and Sons,United States,Management Consulting,1-10,2024-02-26,2024Q1
+724,Mann Inc,United States,PR Agency,1-10,2024-06-14,2024Q2
+725,Wagner LLC,Portugal,Branding Agency,1-10,2023-10-12,2023Q4
+726,Williamson Ltd,United States,Dev Shop / Software Consulting,1-10,2025-02-19,2025Q1
+727,"Durham, Hopkins and Smith",Germany,Marketing Agency,1-10,2026-02-26,2026Q1
+728,"Arnold, Smith and Moreno",United States,Marketing Agency,1-10,2024-04-03,2024Q2
+729,Nichols-Mitchell,Portugal,Marketing Agency,1-10,2025-05-18,2025Q2
+730,"Li, Craig and Drake",Portugal,Digital Agency,1-10,2025-08-16,2025Q3
+731,Rodriguez Inc,United Kingdom,Digital Agency,11-50,2025-04-14,2025Q2
+732,"Hernandez, Lee and Fox",United States,Design Studio,1-10,2025-05-14,2025Q2
+733,Adams-Sanders,Germany,Management Consulting,11-50,2026-02-22,2026Q1
+734,Chung-Stevens,United States,Digital Agency,1-10,2023-07-18,2023Q3
+735,Branch and Sons,United States,Branding Agency,1-10,2024-09-03,2024Q3
+736,Sutton-Abbott,Germany,Design Studio,11-50,2025-02-04,2025Q1
+737,"Frey, Santos and Johnson",United States,Marketing Agency,1-10,2024-10-16,2024Q4
+738,Gray-Tran,United States,Unknown,1-10,2026-04-22,2026Q2
+739,Walsh Ltd,United Kingdom,Management Consulting,1-10,2026-01-13,2026Q1
+740,Miller Group,United Kingdom,Branding Agency,1-10,2025-11-09,2025Q4
+741,"Mueller, Knight and Hodge",United States,Unknown,1-10,2026-04-23,2026Q2
+742,Jacobson Inc,United States,Digital Agency,1-10,2026-01-14,2026Q1
+743,Lewis Ltd,United Kingdom,Dev Shop / Software Consulting,11-50,2023-07-13,2023Q3
+744,"Alvarez, Williams and Jones",United Kingdom,Dev Shop / Software Consulting,11-50,2026-04-16,2026Q2
+745,Lam-Elliott,United States,Branding Agency,1-10,2025-04-28,2025Q2
+746,White LLC,United Kingdom,Dev Shop / Software Consulting,51+,2024-02-19,2024Q1
+747,Ali PLC,United Kingdom,Dev Shop / Software Consulting,1-10,2025-11-15,2025Q4
+748,Goodwin Ltd,Portugal,Dev Shop / Software Consulting,51+,2025-03-07,2025Q1
+749,Hickman-Evans,United Kingdom,Branding Agency,51+,2025-12-07,2025Q4
+750,"Allen, Davenport and Price",United Kingdom,Management Consulting,11-50,2024-04-11,2024Q2
+751,"Rivera, Campos and Taylor",Portugal,Branding Agency,1-10,2025-07-18,2025Q3
+752,"Ramsey, Mason and Mccann",United States,Branding Agency,1-10,2024-12-28,2024Q4
+753,Davis and Sons,Germany,Dev Shop / Software Consulting,11-50,2025-09-14,2025Q3
+754,Peterson PLC,United States,Digital Agency,11-50,2025-05-25,2025Q2
+755,"Sanders, Ayala and Johnson",United States,Dev Shop / Software Consulting,1-10,2026-06-04,2026Q2
+756,Bowers-Hayes,Portugal,Branding Agency,51+,2026-06-09,2026Q2
+757,Kelly Group,United Kingdom,Marketing Agency,11-50,2026-06-06,2026Q2
+758,Lopez-Willis,United States,PR Agency,11-50,2024-08-13,2024Q3
+759,Miller-Montgomery,Portugal,Design Studio,1-10,2025-10-02,2025Q4
+760,Marquez Inc,Portugal,Marketing Agency,51+,2024-10-11,2024Q4
+761,Moore-Dawson,United States,Branding Agency,1-10,2025-06-28,2025Q2
+762,"Moore, Price and Ward",United States,Unknown,51+,2023-07-10,2023Q3
+763,Smith LLC,United Kingdom,Management Consulting,11-50,2024-09-24,2024Q3
+764,Ward-Nelson,United Kingdom,Design Studio,1-10,2024-08-27,2024Q3
+765,Miller Group,United Kingdom,Management Consulting,11-50,2025-11-27,2025Q4
+766,Hawkins-Hunt,Germany,PR Agency,1-10,2023-11-17,2023Q4
+767,Johnson LLC,Germany,Digital Agency,11-50,2026-05-01,2026Q2
+768,"Davis, George and Nguyen",Portugal,Marketing Agency,1-10,2026-03-08,2026Q1
+769,Smith-Gutierrez,United States,Design Studio,1-10,2023-10-09,2023Q4
+770,Hardy PLC,United Kingdom,Marketing Agency,1-10,2025-06-22,2025Q2
+771,Armstrong and Sons,United States,Design Studio,11-50,2024-11-28,2024Q4
+772,"James, Taylor and Turner",United Kingdom,Dev Shop / Software Consulting,1-10,2024-01-09,2024Q1
+773,Thomas-Jackson,Germany,Branding Agency,1-10,2026-05-02,2026Q2
+774,Fisher-Washington,United Kingdom,Dev Shop / Software Consulting,51+,2025-07-08,2025Q3
+775,Ward and Sons,Germany,Branding Agency,1-10,2025-12-17,2025Q4
+776,"Weber, Wheeler and Gonzalez",Germany,Marketing Agency,11-50,2026-04-16,2026Q2
+777,Taylor Inc,United Kingdom,Marketing Agency,11-50,2024-04-08,2024Q2
+778,Cook-Oliver,Germany,PR Agency,1-10,2025-03-21,2025Q1
+779,Alexander-Jordan,Portugal,Branding Agency,51+,2023-08-09,2023Q3
+780,"Mccann, Taylor and Flores",United States,Digital Agency,11-50,2025-07-13,2025Q3
+781,"Harris, Edwards and Oconnell",United States,Dev Shop / Software Consulting,51+,2025-08-27,2025Q3
+782,Carter-Neal,United Kingdom,Management Consulting,11-50,2025-11-22,2025Q4
+783,Faulkner-Casey,United States,PR Agency,51+,2026-02-11,2026Q1
+784,Bennett-Velasquez,United States,PR Agency,11-50,2026-04-10,2026Q2
+785,Diaz-Frederick,United Kingdom,Marketing Agency,1-10,2026-01-26,2026Q1
+786,Vargas PLC,Germany,Management Consulting,1-10,2024-08-22,2024Q3
+787,Maldonado PLC,United States,Management Consulting,1-10,2025-04-09,2025Q2
+788,Benton Group,United Kingdom,Digital Agency,11-50,2024-05-23,2024Q2
+789,"Clark, Salinas and Guerra",Germany,PR Agency,1-10,2025-11-08,2025Q4
+790,Fuentes Group,United Kingdom,PR Agency,1-10,2025-03-12,2025Q1
+791,"Porter, Schultz and Allen",Germany,Digital Agency,11-50,2024-11-06,2024Q4
+792,"Moore, Henderson and Bennett",United Kingdom,PR Agency,11-50,2024-02-26,2024Q1
+793,Ewing-Mendoza,Portugal,Management Consulting,51+,2024-02-21,2024Q1
+794,Ferguson-Mclean,United States,Management Consulting,11-50,2026-06-14,2026Q2
+795,"Barnes, Johnson and Schmitt",United States,Management Consulting,1-10,2025-11-15,2025Q4
+796,"Woodard, Herrera and Little",United Kingdom,Digital Agency,51+,2025-07-19,2025Q3
+797,Rodriguez and Sons,United States,Digital Agency,51+,2024-05-04,2024Q2
+798,"Ortega, Jackson and Salazar",United States,Marketing Agency,1-10,2025-09-28,2025Q3
+799,"Terrell, Byrd and Ross",United States,Branding Agency,1-10,2026-03-19,2026Q1
+800,Sheppard-Jordan,Portugal,Dev Shop / Software Consulting,1-10,2023-12-23,2023Q4
+801,Garcia and Sons,United States,Design Studio,1-10,2025-08-11,2025Q3
+802,"Burgess, Grant and Watts",United States,Dev Shop / Software Consulting,1-10,2026-02-25,2026Q1
+803,Griffin Group,Germany,Dev Shop / Software Consulting,1-10,2023-11-25,2023Q4
+804,Barton-Chapman,United Kingdom,Branding Agency,11-50,2024-04-14,2024Q2
+805,"Hernandez, Cuevas and Webb",United States,Design Studio,1-10,2025-04-24,2025Q2
+806,Perry-Nixon,United States,Dev Shop / Software Consulting,1-10,2024-02-17,2024Q1
+807,Guerra Ltd,Germany,Design Studio,11-50,2025-05-08,2025Q2
+808,Bailey LLC,United States,Branding Agency,1-10,2024-06-17,2024Q2
+809,Mueller-Boyd,United States,Management Consulting,11-50,2024-02-10,2024Q1
+810,Alvarez-Kim,United Kingdom,Branding Agency,11-50,2026-01-22,2026Q1
+811,"Chavez, Jones and Williams",United States,Management Consulting,51+,2025-03-25,2025Q1
+812,"Wilson, Sweeney and Wong",Portugal,Unknown,51+,2025-08-01,2025Q3
+813,"Marsh, Spears and Yang",Germany,PR Agency,1-10,2024-09-01,2024Q3
+814,"Thompson, Moore and Castro",United States,PR Agency,1-10,2025-06-26,2025Q2
+815,Hall-Sullivan,Portugal,Digital Agency,1-10,2025-08-20,2025Q3
+816,Lopez Ltd,Portugal,PR Agency,11-50,2025-09-27,2025Q3
+817,Foster-Mclaughlin,Germany,Branding Agency,1-10,2026-04-04,2026Q2
+818,Cole Group,United Kingdom,PR Agency,1-10,2024-01-22,2024Q1
+819,Smith-Lewis,United States,PR Agency,11-50,2025-07-17,2025Q3
+820,Goodwin-Stokes,United Kingdom,Dev Shop / Software Consulting,1-10,2026-05-04,2026Q2
+821,Ray PLC,United Kingdom,Dev Shop / Software Consulting,1-10,2024-09-04,2024Q3
+822,Diaz and Sons,United Kingdom,Dev Shop / Software Consulting,11-50,2024-01-17,2024Q1
+823,Wilson-Lambert,United States,Design Studio,1-10,2026-03-02,2026Q1
+824,Rose-Fowler,Portugal,Branding Agency,11-50,2026-04-11,2026Q2
+825,"Price, Long and Wilson",United States,Marketing Agency,1-10,2025-07-27,2025Q3
+826,Bruce-Williamson,United Kingdom,Dev Shop / Software Consulting,51+,2025-04-17,2025Q2
+827,"Mccarthy, Evans and Mendez",Germany,PR Agency,51+,2025-08-08,2025Q3
+828,Powers LLC,Portugal,Marketing Agency,1-10,2024-02-04,2024Q1
+829,Allen Inc,Portugal,Management Consulting,51+,2025-03-26,2025Q1
+830,Brooks and Sons,United Kingdom,Dev Shop / Software Consulting,1-10,2025-09-25,2025Q3
+831,"Price, Carlson and Andrews",United States,PR Agency,1-10,2024-12-06,2024Q4
+832,Lopez-Reid,Portugal,Management Consulting,51+,2025-05-24,2025Q2
+833,"Ellison, Arias and Thompson",Germany,Branding Agency,1-10,2024-02-13,2024Q1
+834,Burns and Sons,United States,Dev Shop / Software Consulting,1-10,2024-07-16,2024Q3
+835,Edwards Group,United Kingdom,Marketing Agency,11-50,2026-05-05,2026Q2
+836,"Brown, Howard and Smith",United States,Design Studio,51+,2024-07-04,2024Q3
+837,Lee Group,United Kingdom,PR Agency,11-50,2025-08-15,2025Q3
+838,"Wagner, Simpson and Cohen",United States,Marketing Agency,1-10,2025-04-28,2025Q2
+839,Mckinney-Wallace,Germany,Design Studio,51+,2025-11-16,2025Q4
+840,Miller Inc,United States,Marketing Agency,1-10,2023-10-03,2023Q4
+841,Carter LLC,United States,PR Agency,11-50,2026-06-17,2026Q2
+842,Medina and Sons,United Kingdom,PR Agency,11-50,2026-03-28,2026Q1
+843,Cunningham-Barton,United Kingdom,Marketing Agency,11-50,2025-02-14,2025Q1
+844,Dunn-Wilson,United States,PR Agency,1-10,2025-10-21,2025Q4
+845,Adams PLC,Germany,Digital Agency,11-50,2025-09-02,2025Q3
+846,Weaver-Sherman,Portugal,Branding Agency,11-50,2025-07-28,2025Q3
+847,"Alexander, Robinson and Coleman",United States,Management Consulting,11-50,2026-06-08,2026Q2
+848,"Greer, Potter and Evans",United States,Digital Agency,11-50,2026-05-21,2026Q2
+849,Cole LLC,Germany,Branding Agency,1-10,2026-01-26,2026Q1
+850,Gonzales Inc,United States,Management Consulting,1-10,2024-09-04,2024Q3
+851,Clark Ltd,Germany,Branding Agency,1-10,2025-08-14,2025Q3
+852,"Norris, Callahan and Bishop",United Kingdom,Dev Shop / Software Consulting,11-50,2023-11-20,2023Q4
+853,Martin-Taylor,United Kingdom,Digital Agency,51+,2025-08-07,2025Q3
+854,Li Inc,United Kingdom,Dev Shop / Software Consulting,1-10,2026-01-02,2026Q1
+855,"Bell, Campbell and Ryan",Germany,Dev Shop / Software Consulting,1-10,2025-04-20,2025Q2
+856,Werner-Carter,Germany,Branding Agency,1-10,2024-03-04,2024Q1
+857,"Adams, Hodge and Duke",Germany,Management Consulting,1-10,2025-08-27,2025Q3
+858,"Ochoa, Taylor and Brady",Germany,Management Consulting,11-50,2025-06-23,2025Q2
+859,Sellers-Riddle,Portugal,Dev Shop / Software Consulting,1-10,2024-04-23,2024Q2
+860,"Martinez, Cline and Wright",United Kingdom,Unknown,1-10,2024-03-07,2024Q1
+861,"Morris, Wright and Bridges",Portugal,Dev Shop / Software Consulting,1-10,2024-07-26,2024Q3
+862,Burns-Ray,United States,Marketing Agency,11-50,2024-10-21,2024Q4
+863,Burton-Brooks,United Kingdom,Branding Agency,11-50,2025-02-15,2025Q1
+864,Schultz Inc,Portugal,Branding Agency,1-10,2025-03-01,2025Q1
+865,Robertson-Ramirez,United States,Dev Shop / Software Consulting,51+,2026-01-19,2026Q1
+866,Gibson-Freeman,United Kingdom,Design Studio,51+,2024-06-23,2024Q2
+867,"Smith, Schroeder and Oconnor",Germany,Branding Agency,1-10,2024-06-22,2024Q2
+868,"Stanton, Reid and Terry",Portugal,Branding Agency,11-50,2023-10-14,2023Q4
+869,Flynn Group,Portugal,Management Consulting,11-50,2025-07-13,2025Q3
+870,Donaldson and Sons,Portugal,Design Studio,1-10,2025-07-05,2025Q3
+871,Adams-Clayton,Germany,Management Consulting,11-50,2024-12-27,2024Q4
+872,Kelley-Anderson,Portugal,Digital Agency,11-50,2026-04-21,2026Q2
+873,Kramer-Shannon,United States,PR Agency,11-50,2024-02-12,2024Q1
+874,Williams Ltd,United States,Design Studio,11-50,2025-08-17,2025Q3
+875,Smith-Noble,United Kingdom,Dev Shop / Software Consulting,11-50,2026-04-12,2026Q2
+876,Alexander Inc,United Kingdom,PR Agency,51+,2026-01-14,2026Q1
+877,Harris-Barker,Portugal,Dev Shop / Software Consulting,11-50,2026-06-14,2026Q2
+878,Khan LLC,United Kingdom,Design Studio,1-10,2024-11-02,2024Q4
+879,Baxter LLC,United States,Design Studio,11-50,2025-04-10,2025Q2
+880,Pena LLC,United States,Dev Shop / Software Consulting,1-10,2023-12-10,2023Q4
+881,Watson Ltd,United Kingdom,Branding Agency,1-10,2024-08-04,2024Q3
+882,Williams Ltd,Germany,Design Studio,11-50,2026-05-24,2026Q2
+883,Barber-Fischer,United States,Dev Shop / Software Consulting,11-50,2025-02-26,2025Q1
+884,Rios-Padilla,Germany,Unknown,1-10,2024-08-13,2024Q3
+885,Lewis Inc,Germany,Digital Agency,11-50,2025-03-02,2025Q1
+886,Wheeler PLC,United States,Dev Shop / Software Consulting,11-50,2024-12-28,2024Q4
+887,"Wallace, Smith and Cooper",Germany,PR Agency,51+,2024-11-23,2024Q4
+888,Mcneil Group,Germany,Digital Agency,11-50,2025-03-07,2025Q1
+889,"Anderson, Jones and Reyes",Portugal,Design Studio,1-10,2024-09-22,2024Q3
+890,"Shaffer, Garcia and Richardson",Portugal,Marketing Agency,11-50,2025-10-13,2025Q4
+891,Taylor-Ayala,United States,Design Studio,1-10,2024-05-19,2024Q2
+892,May Ltd,United States,Design Studio,1-10,2025-12-02,2025Q4
+893,Jones PLC,United States,PR Agency,1-10,2024-01-20,2024Q1
+894,Bishop and Sons,United States,Digital Agency,11-50,2023-12-12,2023Q4
+895,Bell-Lewis,Germany,Design Studio,11-50,2024-09-17,2024Q3
+896,"Hernandez, Jenkins and Parks",United Kingdom,Digital Agency,1-10,2025-11-13,2025Q4
+897,Miller Inc,United States,Management Consulting,1-10,2023-11-11,2023Q4
+898,Goodwin PLC,United States,Digital Agency,11-50,2025-05-16,2025Q2
+899,"Cruz, Richmond and Edwards",Germany,Marketing Agency,51+,2025-12-04,2025Q4
+900,Wright Ltd,United Kingdom,Unknown,51+,2026-06-20,2026Q2
+901,Wright PLC,United States,Branding Agency,51+,2024-06-26,2024Q2
+902,"Griffith, Mitchell and Pugh",United States,Management Consulting,11-50,2024-05-01,2024Q2
+903,Abbott Ltd,Germany,Dev Shop / Software Consulting,1-10,2023-09-17,2023Q3
+904,Harris-Lawson,United States,Design Studio,51+,2024-05-11,2024Q2
+905,Adkins LLC,Portugal,Dev Shop / Software Consulting,1-10,2026-03-18,2026Q1
+906,"Brown, Hurst and Blevins",United Kingdom,PR Agency,1-10,2025-02-25,2025Q1
+907,Cruz-Allen,Germany,Design Studio,11-50,2026-04-18,2026Q2
+908,"Wheeler, Rice and Levine",Portugal,Branding Agency,11-50,2025-05-21,2025Q2
+909,Peck-Anderson,United States,Marketing Agency,11-50,2025-10-15,2025Q4
+910,"Fisher, Payne and Thompson",United States,Design Studio,1-10,2025-06-26,2025Q2
+911,Best-Townsend,United States,Management Consulting,11-50,2024-07-14,2024Q3
+912,Matthews Inc,United Kingdom,Marketing Agency,1-10,2024-08-13,2024Q3
+913,Lewis-Livingston,United Kingdom,Digital Agency,11-50,2025-07-03,2025Q3
+914,Hunter-Fuller,United Kingdom,Marketing Agency,11-50,2025-01-12,2025Q1
+915,"Wang, Henderson and Morales",United States,Management Consulting,11-50,2024-04-20,2024Q2
+916,"Herrera, Jensen and Ramirez",Germany,Branding Agency,1-10,2025-12-27,2025Q4
+917,Miller-Mccall,United Kingdom,Design Studio,11-50,2024-11-24,2024Q4
+918,Herrera Group,Germany,PR Agency,11-50,2025-08-05,2025Q3
+919,"Walters, Davenport and Becker",Portugal,Dev Shop / Software Consulting,51+,2024-02-24,2024Q1
+920,Collins Group,Portugal,Dev Shop / Software Consulting,1-10,2024-08-18,2024Q3
+921,"Ashley, Allen and Sanchez",United States,Branding Agency,11-50,2026-05-18,2026Q2
+922,Wilson-Salazar,United States,PR Agency,1-10,2026-04-24,2026Q2
+923,Parker Ltd,United Kingdom,Digital Agency,11-50,2023-11-05,2023Q4
+924,"Yang, Wilson and Zimmerman",United States,Design Studio,11-50,2025-09-04,2025Q3
+925,"Smith, Crawford and Reed",Germany,Dev Shop / Software Consulting,51+,2025-08-25,2025Q3
+926,"Logan, Le and Jackson",Portugal,Digital Agency,1-10,2024-03-03,2024Q1
+927,Brady LLC,United States,PR Agency,1-10,2025-09-19,2025Q3
+928,"Tanner, Wise and Johnson",United States,PR Agency,1-10,2025-10-08,2025Q4
+929,Nelson-Brown,United Kingdom,Management Consulting,51+,2025-04-16,2025Q2
+930,"Proctor, Burton and Crawford",United Kingdom,Digital Agency,1-10,2025-03-05,2025Q1
+931,"Ward, Porter and Bradley",United States,Branding Agency,1-10,2024-08-06,2024Q3
+932,Moore-Ayala,United States,PR Agency,1-10,2024-06-21,2024Q2
+933,"Craig, Wilson and Yang",Germany,PR Agency,1-10,2024-09-11,2024Q3
+934,Williams Inc,United Kingdom,Management Consulting,1-10,2025-11-16,2025Q4
+935,Williams LLC,United States,Dev Shop / Software Consulting,11-50,2024-05-09,2024Q2
+936,Mora-White,United States,Management Consulting,11-50,2026-06-24,2026Q2
+937,Tran Ltd,United States,Marketing Agency,1-10,2025-09-28,2025Q3
+938,"Rios, Walker and Wright",United States,Branding Agency,11-50,2025-11-25,2025Q4
+939,"Flores, Mckenzie and Duncan",Portugal,Unknown,11-50,2025-02-18,2025Q1
+940,Shaw Inc,Germany,Design Studio,1-10,2024-09-25,2024Q3
+941,Walker PLC,Portugal,Digital Agency,1-10,2025-08-17,2025Q3
+942,Finley Inc,United States,Design Studio,1-10,2025-07-28,2025Q3
+943,Cline-Ayala,Portugal,Dev Shop / Software Consulting,11-50,2024-04-17,2024Q2
+944,Murphy-Tran,United States,Digital Agency,11-50,2026-05-22,2026Q2
+945,Wood LLC,United States,Management Consulting,11-50,2026-02-02,2026Q1
+946,"Mueller, Stevenson and Sanchez",United Kingdom,Management Consulting,1-10,2025-02-08,2025Q1
+947,Vargas-Snyder,United States,Management Consulting,51+,2025-03-13,2025Q1
+948,Oconnor PLC,United Kingdom,PR Agency,1-10,2025-09-11,2025Q3
+949,Hernandez Group,Portugal,Management Consulting,11-50,2026-02-27,2026Q1
+950,Hall LLC,United Kingdom,Branding Agency,11-50,2025-12-21,2025Q4
+951,"Franco, Wiley and Tapia",United Kingdom,Marketing Agency,51+,2025-05-17,2025Q2
+952,Blake Group,Portugal,Branding Agency,1-10,2024-05-12,2024Q2
+953,"Acosta, Garcia and Moreno",United States,Digital Agency,11-50,2025-05-01,2025Q2
+954,Barnes Inc,United States,Marketing Agency,1-10,2025-01-17,2025Q1
+955,Dawson Inc,United States,Management Consulting,1-10,2024-05-20,2024Q2
+956,Morse PLC,United States,Dev Shop / Software Consulting,1-10,2025-07-11,2025Q3
+957,Haynes-Watson,United Kingdom,Design Studio,1-10,2025-04-19,2025Q2
+958,"Miller, Davis and Anderson",Germany,Marketing Agency,1-10,2025-09-05,2025Q3
+959,Jones-Bradley,United States,Marketing Agency,11-50,2025-08-19,2025Q3
+960,Bates-Anderson,United States,Digital Agency,51+,2023-10-13,2023Q4
+961,Green-Edwards,United Kingdom,PR Agency,1-10,2026-04-24,2026Q2
+962,Haynes-Moss,United States,Branding Agency,1-10,2024-03-20,2024Q1
+963,Chavez-Hall,Portugal,Dev Shop / Software Consulting,1-10,2024-07-14,2024Q3
+964,Taylor PLC,Germany,Design Studio,11-50,2025-12-20,2025Q4
+965,Moore and Sons,United States,Management Consulting,11-50,2026-06-15,2026Q2
+966,Owens-Russell,United States,Design Studio,1-10,2026-04-04,2026Q2
+967,"Howard, Townsend and Hayes",United Kingdom,PR Agency,51+,2025-11-14,2025Q4
+968,Baker-Wilson,United Kingdom,Digital Agency,1-10,2024-01-20,2024Q1
+969,Aguirre LLC,Germany,Marketing Agency,11-50,2023-07-03,2023Q3
+970,"Terry, Williams and Huff",United States,Dev Shop / Software Consulting,11-50,2023-08-01,2023Q3
+971,Hernandez-Dawson,Germany,Digital Agency,11-50,2026-05-14,2026Q2
+972,Foster-Williams,United States,Design Studio,11-50,2024-04-26,2024Q2
+973,Green-Ewing,Germany,Dev Shop / Software Consulting,1-10,2025-05-24,2025Q2
+974,Crane Group,Germany,Unknown,11-50,2025-06-05,2025Q2
+975,"Adkins, Wright and Murray",Germany,Marketing Agency,51+,2025-07-10,2025Q3
+976,Martinez Inc,United Kingdom,Marketing Agency,1-10,2026-05-23,2026Q2
+977,Anderson Group,United States,Digital Agency,11-50,2024-09-01,2024Q3
+978,Parks-Pace,United States,Branding Agency,11-50,2024-04-12,2024Q2
+979,Aguilar LLC,United Kingdom,Management Consulting,11-50,2025-02-28,2025Q1
+980,Johnson Inc,United Kingdom,PR Agency,11-50,2025-09-13,2025Q3
+981,Orr Group,United Kingdom,Branding Agency,11-50,2024-07-06,2024Q3
+982,Davis LLC,United Kingdom,Management Consulting,1-10,2026-01-19,2026Q1
+983,Williams Group,Germany,Dev Shop / Software Consulting,11-50,2026-05-28,2026Q2
+984,Jackson PLC,Germany,PR Agency,1-10,2025-05-06,2025Q2
+985,Underwood-Foster,United Kingdom,Dev Shop / Software Consulting,11-50,2025-07-18,2025Q3
+986,Reyes Group,Germany,Branding Agency,1-10,2024-03-21,2024Q1
+987,Gomez and Sons,United States,Digital Agency,1-10,2024-11-14,2024Q4
+988,Ramirez-Stephenson,United States,Digital Agency,1-10,2025-08-02,2025Q3
+989,Mendez PLC,Portugal,PR Agency,1-10,2026-05-17,2026Q2
+990,Holland Group,Portugal,Dev Shop / Software Consulting,1-10,2024-12-27,2024Q4
+991,Andrade-Mendoza,United Kingdom,Dev Shop / Software Consulting,1-10,2026-01-22,2026Q1
+992,Ramirez and Sons,United Kingdom,Dev Shop / Software Consulting,1-10,2026-04-20,2026Q2
+993,Gonzalez-Wilkerson,Germany,PR Agency,11-50,2025-04-02,2025Q2
+994,"Wright, Mcknight and Stephens",Germany,Marketing Agency,51+,2025-04-09,2025Q2
+995,Mayo Ltd,United States,Digital Agency,1-10,2023-07-07,2023Q3
+996,Castillo-Harrington,Germany,Marketing Agency,1-10,2024-08-18,2024Q3
+997,Durham-Shaw,Germany,Management Consulting,51+,2025-06-12,2025Q2
+998,Nelson-Johnson,United States,Design Studio,11-50,2024-12-15,2024Q4
+999,"Robinson, Huang and Osborne",United Kingdom,Branding Agency,1-10,2026-02-17,2026Q1
+1000,Stokes Group,United States,Marketing Agency,1-10,2023-12-26,2023Q4

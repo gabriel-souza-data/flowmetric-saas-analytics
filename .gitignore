@@ -1,0 +1,25 @@
+# SQLite databases (generated automatically by notebooks)
+data/flowmetric_clean.db
+data/flowmetric.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter
+.jupyter/
+
+# Environment
+.env
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pickle files (internal cache used by generate_data.py)
+data/raw/_engagement_cache.pkl
