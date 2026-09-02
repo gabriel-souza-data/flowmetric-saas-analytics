@@ -178,10 +178,5 @@ python generate_data.py
 
 ## Author
 
-**Gabriel Souza** — Data Analyst | Lisbon, Portugal
-
-**LinkedIn:** https://www.linkedin.com/in/gabriel-souza-5bb6123a8/
-**GitHub:** https://github.com/gabriel-souza-data
-**Tools:** Python · SQLite · Power BI · pandas · seaborn · scipy
-**AI Assistant:** Claude (Anthropic)
-**Date:** July 2026
+**Gabriel Souza** — Data analyst Lisbon, Portugal · 2026
+LinkedIn: https://www.linkedin.com/in/gabriel-souza-5bb6123a8/ GitHub: https://github.com/gabriel-souza-data
